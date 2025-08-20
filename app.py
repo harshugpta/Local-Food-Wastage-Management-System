@@ -10,6 +10,7 @@ claims = pd.read_csv("claims.csv")
 # --- Streamlit App ---
 st.title("Local Food Wastage Management System")
 
+# Display raw data previews
 st.subheader("Providers Data")
 st.dataframe(providers.head())
 
@@ -23,114 +24,84 @@ st.subheader("Claims Data")
 st.dataframe(claims.head())
 
 
-# --- List of queries ---
-queries = {
-    "Providers count by city": """
-        SELECT City, COUNT(*) AS total_providers 
-        FROM providers 
-        GROUP BY City;
-    """,
-    "Top provider types": """
-        SELECT Type, COUNT(*) AS total 
-        FROM providers 
-        GROUP BY Type 
-        ORDER BY total DESC;
-    """,
-    "Provider contact info (Delhi)": """
-        SELECT Name, Contact 
-        FROM providers 
-        WHERE City = 'Delhi';
-    """,
-    "Receivers count by city": """
-        SELECT City, COUNT(*) AS total_receivers 
-        FROM receivers 
-        GROUP BY City;
-    """,
-    "Receivers with most claims": """
-        SELECT r.Name, COUNT(c.Claim_ID) AS total_claims
-        FROM receivers r 
-        JOIN claims c ON r.Receiver_ID = c.Receiver_ID
-        GROUP BY r.Name 
-        ORDER BY total_claims DESC;
-    """,
-    "Total food quantity available": """
-        SELECT SUM(Quantity) AS total_quantity 
-        FROM food_listings;
-    """,
-    "Cities with highest food listings": """
-        SELECT Location, COUNT(*) AS total_listings
-        FROM food_listings 
-        GROUP BY Location 
-        ORDER BY total_listings DESC;
-    """,
-    "Most common food types": """
-        SELECT Food_Type, COUNT(*) AS total_items
-        FROM food_listings 
-        GROUP BY Food_Type 
-        ORDER BY total_items DESC;
-    """,
-    "Claims count for each food item": """
-        SELECT f.Food_Name, COUNT(c.Claim_ID) AS total_claims
-        FROM claims c 
-        JOIN food_listings f ON c.Food_ID = f.Food_ID
-        GROUP BY f.Food_Name;
-    """,
-    "Provider with highest successful claims": """
-        SELECT p.Name, COUNT(c.Claim_ID) AS successful_claims
-        FROM providers p
-        JOIN food_listings f ON p.Provider_ID = f.Provider_ID
-        JOIN claims c ON f.Food_ID = c.Food_ID
-        WHERE c.Status = 'Completed'
-        GROUP BY p.Name 
-        ORDER BY successful_claims DESC;
-    """,
-    "Claim status distribution": """
-        SELECT Status, COUNT(*) AS total_claims
-        FROM claims 
-        GROUP BY Status;
-    """,
-    "Average quantity claimed per receiver": """
-        SELECT r.Name, AVG(f.Quantity) AS avg_quantity
-        FROM receivers r
-        JOIN claims c ON r.Receiver_ID = c.Receiver_ID
-        JOIN food_listings f ON c.Food_ID = f.Food_ID
-        GROUP BY r.Name;
-    """,
-    "Most claimed meal type": """
-        SELECT f.Meal_Type, COUNT(c.Claim_ID) AS total_claims
-        FROM claims c 
-        JOIN food_listings f ON c.Food_ID = f.Food_ID
-        GROUP BY f.Meal_Type 
-        ORDER BY total_claims DESC;
-    """,
-    "Total quantity donated by each provider": """
-        SELECT p.Name, SUM(f.Quantity) AS total_donated
-        FROM providers p
-        JOIN food_listings f ON p.Provider_ID = f.Provider_ID
-        GROUP BY p.Name 
-        ORDER BY total_donated DESC;
-    """,
-    "Claims summary by city": """
-        SELECT f.Location, COUNT(c.Claim_ID) AS total_claims
-        FROM claims c 
-        JOIN food_listings f ON c.Food_ID = f.Food_ID
-        GROUP BY f.Location 
-        ORDER BY total_claims DESC;
-    """
-}
+# --- Recreate query outputs using pandas instead of SQL ---
+st.subheader("Providers count by city")
+st.dataframe(providers.groupby("City").size().reset_index(name="total_providers"))
 
-# --- Execute and display each query ---
-for title, query in queries.items():
-    print(f"\n=== {title} ===")
-    # cursor.execute(query)
-    # rows = cursor.fetchall()
-    # columns = cursor.column_names
-#     df = pd.DataFrame(rows, columns=columns)
-#     print(df)
+st.subheader("Top provider types")
+st.dataframe(providers.groupby("Type").size().reset_index(name="total").sort_values("total", ascending=False))
 
-# cursor.close()
-# conn.close()
-import streamlit as st
+st.subheader("Provider contact info (Delhi)")
+st.dataframe(providers[providers["City"] == "Delhi"][["Name", "Contact"]])
 
-st.title("Local Food Wastage Management System")
-st.write("If you see this page in your browser, Streamlit is working!")
+st.subheader("Receivers count by city")
+st.dataframe(receivers.groupby("City").size().reset_index(name="total_receivers"))
+
+st.subheader("Receivers with most claims")
+st.dataframe(
+    claims.merge(receivers, on="Receiver_ID")
+          .groupby("Name").size()
+          .reset_index(name="total_claims")
+          .sort_values("total_claims", ascending=False)
+)
+
+st.subheader("Total food quantity available")
+st.write(food_listings["Quantity"].sum())
+
+st.subheader("Cities with highest food listings")
+st.dataframe(food_listings.groupby("Location").size().reset_index(name="total_listings").sort_values("total_listings", ascending=False))
+
+st.subheader("Most common food types")
+st.dataframe(food_listings.groupby("Food_Type").size().reset_index(name="total_items").sort_values("total_items", ascending=False))
+
+st.subheader("Claims count for each food item")
+st.dataframe(
+    claims.merge(food_listings, on="Food_ID")
+          .groupby("Food_Name").size()
+          .reset_index(name="total_claims")
+)
+
+st.subheader("Provider with highest successful claims")
+st.dataframe(
+    claims[claims["Status"] == "Completed"]
+          .merge(food_listings, on="Food_ID")
+          .merge(providers, on="Provider_ID")
+          .groupby("Name").size()
+          .reset_index(name="successful_claims")
+          .sort_values("successful_claims", ascending=False)
+)
+
+st.subheader("Claim status distribution")
+st.dataframe(claims.groupby("Status").size().reset_index(name="total_claims"))
+
+st.subheader("Average quantity claimed per receiver")
+st.dataframe(
+    claims.merge(food_listings, on="Food_ID")
+          .merge(receivers, on="Receiver_ID")
+          .groupby("Name")["Quantity"].mean()
+          .reset_index(name="avg_quantity")
+)
+
+st.subheader("Most claimed meal type")
+st.dataframe(
+    claims.merge(food_listings, on="Food_ID")
+          .groupby("Meal_Type").size()
+          .reset_index(name="total_claims")
+          .sort_values("total_claims", ascending=False)
+)
+
+st.subheader("Total quantity donated by each provider")
+st.dataframe(
+    food_listings.merge(providers, on="Provider_ID")
+                 .groupby("Name")["Quantity"].sum()
+                 .reset_index(name="total_donated")
+                 .sort_values("total_donated", ascending=False)
+)
+
+st.subheader("Claims summary by city")
+st.dataframe(
+    claims.merge(food_listings, on="Food_ID")
+          .groupby("Location").size()
+          .reset_index(name="total_claims")
+          .sort_values("total_claims", ascending=False)
+)
