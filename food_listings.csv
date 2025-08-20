@@ -1,0 +1,1001 @@
+Food_ID,Provider_ID,Food_Name,Quantity,Expiry_Date,Provider_Type,Location,Meal_Type,Food_Type
+1,110,Bread,43,2025-03-17,Grocery Store,South Kellyville,"Breakfast",Non-Vegetarian
+2,791,Soup,22,2025-03-24,Grocery Store,West James,"Dinner",Non-Vegetarian
+3,478,Fruits,46,2025-03-28,Catering Service,Lake Regina,"Breakfast",Vegan
+4,930,Fruits,15,2025-03-16,Restaurant,Kellytown,"Lunch",Vegan
+5,279,Soup,14,2025-03-19,Restaurant,Garciaport,"Dinner",Vegan
+6,378,Vegetables,4,2025-03-24,Supermarket,South Johnshire,"Snacks",Vegan
+7,268,Dairy,29,2025-03-25,Grocery Store,Nolanmouth,"Dinner",Vegan
+8,343,Rice,49,2025-03-28,Catering Service,South Christopherborough,"Lunch",Vegetarian
+9,47,Bread,46,2025-03-25,Supermarket,East Andrewland,"Snacks",Non-Vegetarian
+10,528,Rice,41,2025-03-20,Supermarket,Markport,"Dinner",Vegan
+11,96,Pasta,39,2025-03-17,Grocery Store,Deborahland,"Breakfast",Vegan
+12,899,Pasta,15,2025-03-28,Catering Service,North Steven,"Lunch",Vegetarian
+13,115,Fruits,33,2025-03-22,Grocery Store,Floresville,"Snacks",Vegetarian
+14,621,Bread,19,2025-03-30,Supermarket,Sarahland,"Dinner",Vegetarian
+15,74,Salad,3,2025-03-22,Catering Service,Belindaville,"Breakfast",Vegetarian
+16,862,Dairy,6,2025-03-26,Grocery Store,East Tammy,"Snacks",Vegan
+17,417,Chicken,42,2025-03-22,Restaurant,East Ashleyshire,"Snacks",Non-Vegetarian
+18,455,Soup,28,2025-03-27,Catering Service,Madisonfort,"Snacks",Vegan
+19,419,Rice,13,2025-03-30,Supermarket,Port Peter,"Breakfast",Vegan
+20,306,Pasta,41,2025-03-17,Catering Service,North Keith,"Snacks",Non-Vegetarian
+21,277,Rice,38,2025-03-26,Catering Service,West Aliciabury,"Dinner",Vegan
+22,892,Chicken,46,2025-03-21,Grocery Store,Russellfurt,"Snacks",Vegan
+23,1,Salad,43,2025-03-26,Supermarket,New Jessica,"Dinner",Vegan
+24,897,Bread,20,2025-03-30,Catering Service,Villastad,"Lunch",Non-Vegetarian
+25,898,Rice,48,2025-03-22,Restaurant,Medinatown,"Breakfast",Vegan
+26,95,Vegetables,34,2025-03-27,Supermarket,Christinaland,"Dinner",Vegan
+27,262,Salad,12,2025-03-23,Supermarket,New Carol,"Breakfast",Vegan
+28,606,Chicken,5,2025-03-22,Grocery Store,North Nathan,"Dinner",Vegan
+29,196,Bread,18,2025-03-19,Restaurant,Bartonborough,"Lunch",Vegan
+30,616,Soup,4,2025-03-16,Restaurant,Clarkberg,"Dinner",Vegetarian
+31,535,Bread,42,2025-03-22,Grocery Store,Valdezborough,"Snacks",Non-Vegetarian
+32,611,Rice,27,2025-03-21,Supermarket,Port Kendraborough,"Lunch",Non-Vegetarian
+33,798,Salad,9,2025-03-27,Grocery Store,North Amanda,"Breakfast",Vegetarian
+34,396,Bread,3,2025-03-30,Catering Service,Heatherside,"Breakfast",Vegan
+35,108,Rice,6,2025-03-23,Supermarket,East Austin,"Breakfast",Vegan
+36,1,Rice,35,2025-03-20,Supermarket,New Jessica,"Breakfast",Vegan
+37,389,Fish,19,2025-03-20,Grocery Store,Davidborough,"Dinner",Non-Vegetarian
+38,440,Bread,48,2025-03-22,Grocery Store,Elliottberg,"Snacks",Vegetarian
+39,758,Bread,48,2025-03-22,Catering Service,Port Patrick,"Breakfast",Non-Vegetarian
+40,965,Fruits,12,2025-03-27,Restaurant,Port Bryce,"Breakfast",Vegetarian
+41,450,Chicken,14,2025-03-27,Catering Service,Grahamside,"Dinner",Vegetarian
+42,179,Rice,50,2025-03-16,Supermarket,North Michelle,"Lunch",Vegan
+43,29,Pasta,44,2025-03-22,Grocery Store,Patrickmouth,"Lunch",Vegan
+44,290,Bread,39,2025-03-22,Supermarket,Bradleyport,"Snacks",Vegan
+45,874,Fish,17,2025-03-24,Catering Service,Priceland,"Lunch",Non-Vegetarian
+46,576,Pasta,25,2025-03-28,Catering Service,East Emilyburgh,"Breakfast",Vegetarian
+47,420,Salad,3,2025-03-17,Catering Service,Anthonyton,"Snacks",Vegan
+48,150,Rice,30,2025-03-16,Grocery Store,North Jamesberg,"Breakfast",Vegan
+49,700,Fish,41,2025-03-17,Supermarket,Morriston,"Dinner",Non-Vegetarian
+50,514,Salad,28,2025-03-23,Supermarket,Maxwellburgh,"Dinner",Vegetarian
+51,828,Dairy,14,2025-03-27,Catering Service,Torresshire,"Snacks",Vegetarian
+52,460,Vegetables,23,2025-03-29,Grocery Store,Lake Justin,"Snacks",Non-Vegetarian
+53,174,Fruits,13,2025-03-16,Grocery Store,North Carolfurt,"Lunch",Vegetarian
+54,368,Soup,15,2025-03-17,Grocery Store,North Lindseychester,"Snacks",Non-Vegetarian
+55,967,Vegetables,19,2025-03-17,Grocery Store,Coleburgh,"Breakfast",Vegetarian
+56,125,Vegetables,9,2025-03-23,Supermarket,Lake April,"Lunch",Non-Vegetarian
+57,977,Chicken,23,2025-03-17,Restaurant,South Jessicachester,"Dinner",Vegan
+58,270,Pasta,39,2025-03-28,Catering Service,Cunninghambury,"Lunch",Vegan
+59,251,Vegetables,38,2025-03-22,Restaurant,East Terrancemouth,"Snacks",Vegan
+60,153,Pasta,49,2025-03-28,Restaurant,Hawkinsmouth,"Breakfast",Non-Vegetarian
+61,243,Fruits,33,2025-03-22,Catering Service,West Catherine,"Lunch",Vegetarian
+62,520,Rice,21,2025-03-21,Catering Service,Port Andre,"Breakfast",Non-Vegetarian
+63,335,Salad,6,2025-03-20,Grocery Store,North Gary,"Dinner",Vegetarian
+64,678,Soup,41,2025-03-26,Grocery Store,Lake Travis,"Dinner",Non-Vegetarian
+65,602,Fruits,45,2025-03-26,Grocery Store,North Destiny,"Breakfast",Non-Vegetarian
+66,577,Fish,6,2025-03-22,Catering Service,Lake Donna,"Breakfast",Non-Vegetarian
+67,455,Rice,50,2025-03-24,Catering Service,Madisonfort,"Breakfast",Vegan
+68,113,Rice,15,2025-03-25,Catering Service,East Elizabethberg,"Snacks",Vegetarian
+69,504,Bread,47,2025-03-16,Catering Service,Gaineschester,"Snacks",Vegetarian
+70,313,Rice,7,2025-03-16,Supermarket,Boylechester,"Lunch",Vegetarian
+71,750,Fish,45,2025-03-19,Supermarket,Michaelton,"Lunch",Vegetarian
+72,293,Dairy,11,2025-03-24,Catering Service,Joneshaven,"Dinner",Vegan
+73,485,Soup,48,2025-03-19,Restaurant,East Andrea,"Breakfast",Vegan
+74,387,Chicken,12,2025-03-29,Grocery Store,West Juliabury,"Breakfast",Non-Vegetarian
+75,389,Bread,35,2025-03-24,Grocery Store,Davidborough,"Dinner",Vegetarian
+76,905,Pasta,40,2025-03-16,Restaurant,North Kennethshire,"Lunch",Vegan
+77,890,Rice,4,2025-03-19,Restaurant,Pereztown,"Lunch",Vegetarian
+78,913,Chicken,1,2025-03-23,Grocery Store,Erikatown,"Dinner",Non-Vegetarian
+79,100,Rice,25,2025-03-19,Catering Service,Mooreview,"Breakfast",Vegan
+80,434,Dairy,36,2025-03-29,Restaurant,Nicoletown,"Breakfast",Vegetarian
+81,848,Fruits,33,2025-03-18,Supermarket,Fowlerbury,"Snacks",Vegetarian
+82,631,Vegetables,26,2025-03-23,Supermarket,North Kevinhaven,"Snacks",Non-Vegetarian
+83,312,Rice,44,2025-03-28,Restaurant,North Ianbury,"Dinner",Vegetarian
+84,967,Rice,25,2025-03-23,Grocery Store,Coleburgh,"Snacks",Vegan
+85,554,Pasta,28,2025-03-16,Restaurant,Brandyberg,"Lunch",Vegan
+86,288,Soup,13,2025-03-30,Supermarket,Maynardstad,"Dinner",Vegetarian
+87,34,Salad,37,2025-03-28,Grocery Store,North Garybury,"Breakfast",Vegan
+88,491,Vegetables,22,2025-03-21,Supermarket,Samanthabury,"Dinner",Non-Vegetarian
+89,844,Chicken,3,2025-03-27,Grocery Store,Olsenstad,"Lunch",Vegan
+90,477,Bread,29,2025-03-23,Supermarket,East Jacobchester,"Breakfast",Vegan
+91,275,Vegetables,9,2025-03-22,Supermarket,Brittanyport,"Breakfast",Vegetarian
+92,752,Chicken,42,2025-03-20,Grocery Store,East Heatherport,"Breakfast",Vegetarian
+93,264,Salad,49,2025-03-20,Catering Service,New Richard,"Lunch",Vegetarian
+94,722,Rice,35,2025-03-16,Restaurant,Linchester,"Lunch",Vegetarian
+95,120,Pasta,19,2025-03-24,Restaurant,New Lisa,"Snacks",Vegan
+96,656,Dairy,5,2025-03-25,Restaurant,South Tiffanyfort,"Breakfast",Non-Vegetarian
+97,346,Rice,44,2025-03-21,Grocery Store,Thomasville,"Dinner",Vegetarian
+98,632,Salad,26,2025-03-29,Supermarket,Davidville,"Breakfast",Vegetarian
+99,162,Bread,8,2025-03-28,Restaurant,Penabury,"Dinner",Non-Vegetarian
+100,647,Vegetables,22,2025-03-18,Restaurant,West Kara,"Breakfast",Vegan
+101,538,Dairy,35,2025-03-23,Restaurant,Jasonmouth,"Dinner",Non-Vegetarian
+102,584,Rice,35,2025-03-19,Supermarket,Moralesside,"Snacks",Vegetarian
+103,391,Bread,35,2025-03-30,Supermarket,South Jerryside,"Snacks",Non-Vegetarian
+104,468,Dairy,3,2025-03-29,Supermarket,East Johnburgh,"Dinner",Non-Vegetarian
+105,698,Rice,2,2025-03-24,Grocery Store,Phillipsmouth,"Breakfast",Non-Vegetarian
+106,253,Rice,31,2025-03-19,Catering Service,Sharonton,"Breakfast",Vegetarian
+107,464,Salad,29,2025-03-25,Catering Service,Port Jacob,"Breakfast",Vegetarian
+108,835,Fruits,22,2025-03-25,Catering Service,Thorntonbury,"Snacks",Non-Vegetarian
+109,998,Fruits,7,2025-03-24,Grocery Store,Joshuastad,"Dinner",Vegan
+110,354,Salad,49,2025-03-17,Catering Service,South Alicia,"Dinner",Vegan
+111,904,Soup,13,2025-03-17,Grocery Store,West Miaside,"Snacks",Vegetarian
+112,308,Chicken,32,2025-03-25,Catering Service,Brittanyside,"Lunch",Vegetarian
+113,623,Soup,14,2025-03-16,Supermarket,Latoyaberg,"Breakfast",Vegetarian
+114,906,Vegetables,28,2025-03-27,Supermarket,West Kevin,"Breakfast",Vegan
+115,963,Pasta,8,2025-03-26,Supermarket,East Bernard,"Lunch",Vegan
+116,570,Soup,32,2025-03-23,Supermarket,Lake Vanessa,"Lunch",Vegetarian
+117,530,Soup,32,2025-03-21,Catering Service,Johnstonhaven,"Snacks",Non-Vegetarian
+118,863,Dairy,42,2025-03-28,Restaurant,Port Michael,"Lunch",Vegan
+119,135,Bread,49,2025-03-28,Catering Service,East Candace,"Breakfast",Non-Vegetarian
+120,785,Rice,30,2025-03-18,Catering Service,Lindseybury,"Lunch",Vegan
+121,314,Vegetables,16,2025-03-30,Restaurant,Rodriguezfurt,"Dinner",Non-Vegetarian
+122,846,Fruits,7,2025-03-20,Supermarket,South Thomasville,"Snacks",Vegan
+123,148,Soup,11,2025-03-25,Grocery Store,Annahaven,"Lunch",Vegetarian
+124,909,Salad,50,2025-03-19,Restaurant,Sheilaburgh,"Snacks",Vegetarian
+125,982,Rice,21,2025-03-17,Grocery Store,Westbury,"Dinner",Vegan
+126,54,Dairy,27,2025-03-18,Supermarket,Lake Rachael,"Lunch",Vegan
+127,763,Rice,48,2025-03-30,Restaurant,Josephburgh,"Snacks",Vegan
+128,235,Rice,39,2025-03-22,Catering Service,Gutierrezshire,"Snacks",Vegetarian
+129,798,Chicken,26,2025-03-21,Grocery Store,North Amanda,"Dinner",Vegan
+130,997,Vegetables,47,2025-03-29,Catering Service,East Rossside,"Breakfast",Vegan
+131,241,Fish,16,2025-03-18,Catering Service,Devinmouth,"Dinner",Vegan
+132,840,Soup,20,2025-03-19,Restaurant,Cisnerostown,"Snacks",Non-Vegetarian
+133,795,Rice,28,2025-03-19,Catering Service,Brownberg,"Lunch",Vegan
+134,39,Rice,1,2025-03-16,Supermarket,Brittanyville,"Dinner",Vegan
+135,980,Rice,44,2025-03-23,Restaurant,Port Melissa,"Lunch",Vegan
+136,723,Bread,29,2025-03-17,Supermarket,Jessicaland,"Dinner",Vegan
+137,87,Pasta,29,2025-03-19,Grocery Store,West Adam,"Snacks",Vegetarian
+138,558,Soup,24,2025-03-18,Catering Service,North Sharonberg,"Snacks",Non-Vegetarian
+139,446,Rice,3,2025-03-20,Catering Service,Port Richardshire,"Dinner",Vegetarian
+140,967,Chicken,18,2025-03-16,Grocery Store,Coleburgh,"Dinner",Vegan
+141,702,Dairy,33,2025-03-29,Supermarket,Lake Mistyton,"Lunch",Non-Vegetarian
+142,368,Soup,41,2025-03-29,Grocery Store,North Lindseychester,"Snacks",Vegetarian
+143,938,Fish,18,2025-03-24,Restaurant,Hollyhaven,"Lunch",Non-Vegetarian
+144,810,Bread,18,2025-03-18,Catering Service,Lake Jason,"Lunch",Vegan
+145,751,Rice,12,2025-03-29,Restaurant,East Richardside,"Lunch",Vegan
+146,172,Chicken,17,2025-03-25,Grocery Store,Garciaside,"Lunch",Vegan
+147,619,Vegetables,47,2025-03-30,Grocery Store,North Katelynland,"Breakfast",Non-Vegetarian
+148,650,Pasta,16,2025-03-18,Restaurant,Garzaville,"Breakfast",Non-Vegetarian
+149,816,Fish,18,2025-03-20,Supermarket,New Jamesburgh,"Breakfast",Vegetarian
+150,332,Fish,50,2025-03-28,Restaurant,West Whitneymouth,"Snacks",Vegan
+151,902,Chicken,19,2025-03-23,Supermarket,Port Robertport,"Dinner",Vegetarian
+152,58,Fish,46,2025-03-24,Grocery Store,North Kevinhaven,"Dinner",Non-Vegetarian
+153,737,Fish,20,2025-03-21,Restaurant,Port Andrea,"Breakfast",Vegetarian
+154,4,Pasta,46,2025-03-30,Grocery Store,Mendezmouth,"Breakfast",Vegan
+155,602,Fruits,20,2025-03-20,Grocery Store,North Destiny,"Dinner",Vegan
+156,970,Fish,24,2025-03-19,Catering Service,Jeffreybury,"Snacks",Vegetarian
+157,600,Chicken,37,2025-03-20,Catering Service,Meganshire,"Breakfast",Vegan
+158,687,Bread,22,2025-03-30,Catering Service,North James,"Breakfast",Vegetarian
+159,653,Pasta,7,2025-03-27,Catering Service,Cameronside,"Lunch",Vegan
+160,367,Rice,27,2025-03-23,Grocery Store,Deckermouth,"Snacks",Vegetarian
+161,414,Vegetables,32,2025-03-20,Supermarket,New Matthew,"Breakfast",Non-Vegetarian
+162,826,Pasta,50,2025-03-21,Supermarket,Lake Karenfurt,"Breakfast",Non-Vegetarian
+163,251,Bread,45,2025-03-16,Restaurant,East Terrancemouth,"Dinner",Vegetarian
+164,432,Dairy,22,2025-03-27,Restaurant,Carolchester,"Dinner",Vegan
+165,90,Bread,22,2025-03-28,Supermarket,Lake Kristentown,"Lunch",Vegetarian
+166,58,Soup,9,2025-03-17,Grocery Store,North Kevinhaven,"Lunch",Vegan
+167,134,Fish,4,2025-03-20,Supermarket,West Melissa,"Lunch",Vegetarian
+168,306,Salad,26,2025-03-20,Catering Service,North Keith,"Lunch",Non-Vegetarian
+169,336,Fruits,18,2025-03-20,Supermarket,East Sandra,"Snacks",Vegan
+170,403,Fruits,49,2025-03-17,Grocery Store,Jeremiahfort,"Breakfast",Vegan
+171,103,Salad,25,2025-03-22,Catering Service,Port Michaelshire,"Snacks",Vegetarian
+172,826,Rice,45,2025-03-28,Supermarket,Lake Karenfurt,"Breakfast",Non-Vegetarian
+173,538,Soup,17,2025-03-19,Restaurant,Jasonmouth,"Dinner",Vegan
+174,903,Chicken,23,2025-03-22,Catering Service,Lake Kari,"Breakfast",Vegan
+175,465,Dairy,26,2025-03-30,Restaurant,Johnton,"Breakfast",Vegetarian
+176,316,Fish,19,2025-03-30,Supermarket,Williamsfort,"Snacks",Non-Vegetarian
+177,863,Dairy,22,2025-03-22,Restaurant,Port Michael,"Breakfast",Vegan
+178,847,Dairy,47,2025-03-21,Supermarket,Williamsonmouth,"Breakfast",Vegan
+179,601,Bread,11,2025-03-27,Catering Service,Port Troychester,"Breakfast",Vegetarian
+180,7,Salad,35,2025-03-28,Restaurant,Lake Christopherburgh,"Dinner",Vegan
+181,47,Rice,35,2025-03-16,Supermarket,East Andrewland,"Lunch",Non-Vegetarian
+182,247,Soup,29,2025-03-18,Catering Service,Port Aaron,"Breakfast",Vegan
+183,730,Salad,15,2025-03-30,Supermarket,Benjaminstad,"Snacks",Vegan
+184,182,Salad,7,2025-03-29,Grocery Store,Port Jeffrey,"Dinner",Vegetarian
+185,498,Soup,19,2025-03-27,Grocery Store,East Craig,"Lunch",Non-Vegetarian
+186,306,Pasta,48,2025-03-17,Catering Service,North Keith,"Breakfast",Vegetarian
+187,910,Dairy,38,2025-03-21,Restaurant,Leeburgh,"Snacks",Non-Vegetarian
+188,55,Soup,4,2025-03-20,Grocery Store,Danachester,"Breakfast",Vegan
+189,948,Salad,7,2025-03-20,Supermarket,West Lisamouth,"Breakfast",Vegetarian
+190,262,Salad,25,2025-03-22,Supermarket,New Carol,"Snacks",Non-Vegetarian
+191,508,Salad,13,2025-03-22,Restaurant,Walkerfurt,"Lunch",Vegan
+192,320,Vegetables,5,2025-03-17,Supermarket,Lake Jeffreytown,"Snacks",Vegan
+193,354,Pasta,25,2025-03-21,Catering Service,South Alicia,"Breakfast",Vegan
+194,31,Chicken,39,2025-03-26,Grocery Store,South Kellyberg,"Lunch",Non-Vegetarian
+195,847,Vegetables,31,2025-03-25,Supermarket,Williamsonmouth,"Snacks",Non-Vegetarian
+196,989,Fish,27,2025-03-28,Grocery Store,North Lauren,"Breakfast",Non-Vegetarian
+197,453,Rice,21,2025-03-24,Grocery Store,East Timothy,"Breakfast",Vegetarian
+198,287,Bread,50,2025-03-23,Catering Service,Jefferyside,"Breakfast",Vegetarian
+199,244,Vegetables,16,2025-03-17,Supermarket,Toddberg,"Breakfast",Vegan
+200,794,Bread,3,2025-03-24,Supermarket,Woodport,"Dinner",Non-Vegetarian
+201,330,Soup,35,2025-03-29,Restaurant,Jamesport,"Dinner",Vegetarian
+202,319,Dairy,17,2025-03-18,Restaurant,Lake Amymouth,"Lunch",Vegetarian
+203,215,Pasta,8,2025-03-24,Grocery Store,New Curtis,"Breakfast",Vegetarian
+204,896,Fish,11,2025-03-26,Grocery Store,Weberfurt,"Lunch",Non-Vegetarian
+205,22,Dairy,13,2025-03-20,Catering Service,Port Lisamouth,"Breakfast",Vegan
+206,931,Rice,28,2025-03-29,Supermarket,South Allisonburgh,"Breakfast",Non-Vegetarian
+207,523,Salad,42,2025-03-23,Restaurant,Lake Lorrainefort,"Dinner",Vegetarian
+208,215,Rice,27,2025-03-26,Grocery Store,New Curtis,"Dinner",Vegetarian
+209,422,Fish,31,2025-03-26,Catering Service,Smithfort,"Dinner",Non-Vegetarian
+210,990,Fruits,17,2025-03-28,Catering Service,Lake Latasha,"Breakfast",Vegetarian
+211,242,Chicken,37,2025-03-22,Restaurant,Michaelport,"Snacks",Vegetarian
+212,228,Salad,33,2025-03-20,Supermarket,Andrewsmouth,"Dinner",Non-Vegetarian
+213,122,Fruits,20,2025-03-26,Catering Service,Tyronebury,"Snacks",Non-Vegetarian
+214,24,Soup,9,2025-03-28,Supermarket,Hestermouth,"Breakfast",Vegan
+215,315,Bread,50,2025-03-30,Restaurant,Lake Andrewmouth,"Snacks",Vegetarian
+216,206,Vegetables,33,2025-03-16,Catering Service,Port Emilyburgh,"Dinner",Vegetarian
+217,290,Soup,42,2025-03-23,Supermarket,Bradleyport,"Lunch",Vegetarian
+218,159,Fish,38,2025-03-24,Grocery Store,North Brooke,"Snacks",Vegan
+219,323,Fish,26,2025-03-18,Restaurant,Jasmineberg,"Snacks",Vegetarian
+220,976,Pasta,18,2025-03-24,Restaurant,Davisview,"Snacks",Vegan
+221,211,Bread,11,2025-03-19,Restaurant,Lake James,"Snacks",Vegan
+222,333,Vegetables,23,2025-03-20,Restaurant,Port Heidiland,"Breakfast",Non-Vegetarian
+223,524,Bread,38,2025-03-17,Grocery Store,West Amandafurt,"Snacks",Vegan
+224,556,Fruits,29,2025-03-19,Catering Service,Brittanyland,"Snacks",Non-Vegetarian
+225,340,Fish,26,2025-03-24,Grocery Store,Murrayborough,"Dinner",Vegan
+226,242,Rice,26,2025-03-22,Restaurant,Michaelport,"Snacks",Non-Vegetarian
+227,923,Vegetables,25,2025-03-29,Supermarket,Jonestown,"Breakfast",Non-Vegetarian
+228,98,Rice,12,2025-03-29,Supermarket,Gardnerfort,"Snacks",Vegetarian
+229,210,Pasta,26,2025-03-22,Grocery Store,Paulmouth,"Dinner",Non-Vegetarian
+230,596,Fruits,17,2025-03-16,Restaurant,Zimmermanville,"Breakfast",Vegetarian
+231,782,Rice,33,2025-03-29,Supermarket,North Mary,"Breakfast",Non-Vegetarian
+232,610,Soup,19,2025-03-28,Supermarket,Allenton,"Lunch",Vegan
+233,26,Fish,19,2025-03-26,Grocery Store,West Adammouth,"Snacks",Non-Vegetarian
+234,888,Rice,10,2025-03-16,Supermarket,West Sharonview,"Dinner",Vegetarian
+235,170,Dairy,38,2025-03-21,Catering Service,North Brentbury,"Lunch",Vegan
+236,231,Soup,50,2025-03-21,Supermarket,North Tom,"Lunch",Non-Vegetarian
+237,643,Salad,39,2025-03-27,Supermarket,North Ebony,"Dinner",Vegan
+238,621,Vegetables,2,2025-03-27,Supermarket,Sarahland,"Breakfast",Vegetarian
+239,372,Pasta,26,2025-03-17,Restaurant,Lewisberg,"Dinner",Vegan
+240,319,Fruits,46,2025-03-26,Restaurant,Lake Amymouth,"Lunch",Vegetarian
+241,135,Fish,4,2025-03-23,Catering Service,East Candace,"Breakfast",Vegetarian
+242,655,Soup,17,2025-03-21,Restaurant,Jimmyberg,"Dinner",Vegan
+243,750,Fruits,30,2025-03-24,Supermarket,Michaelton,"Snacks",Non-Vegetarian
+244,46,Soup,17,2025-03-26,Grocery Store,South Lisaberg,"Snacks",Non-Vegetarian
+245,48,Chicken,5,2025-03-16,Restaurant,Timothyview,"Dinner",Vegetarian
+246,768,Salad,50,2025-03-28,Restaurant,South Danielle,"Snacks",Non-Vegetarian
+247,47,Fish,17,2025-03-30,Supermarket,East Andrewland,"Lunch",Non-Vegetarian
+248,960,Vegetables,32,2025-03-21,Supermarket,Port Lance,"Lunch",Non-Vegetarian
+249,596,Salad,39,2025-03-28,Restaurant,Zimmermanville,"Breakfast",Vegan
+250,316,Bread,8,2025-03-16,Supermarket,Williamsfort,"Snacks",Vegan
+251,241,Dairy,12,2025-03-24,Catering Service,Devinmouth,"Lunch",Non-Vegetarian
+252,113,Chicken,18,2025-03-19,Catering Service,East Elizabethberg,"Snacks",Non-Vegetarian
+253,231,Rice,20,2025-03-19,Supermarket,North Tom,"Snacks",Vegan
+254,703,Rice,30,2025-03-24,Catering Service,Lake Jamestown,"Lunch",Non-Vegetarian
+255,825,Dairy,44,2025-03-24,Supermarket,South Bryan,"Lunch",Non-Vegetarian
+256,384,Rice,33,2025-03-28,Grocery Store,Jamesfurt,"Dinner",Non-Vegetarian
+257,344,Chicken,41,2025-03-25,Catering Service,North Nicholas,"Snacks",Vegan
+258,101,Fish,24,2025-03-21,Restaurant,East Angelafort,"Breakfast",Vegetarian
+259,815,Rice,44,2025-03-27,Grocery Store,Ashleyhaven,"Snacks",Non-Vegetarian
+260,723,Fruits,50,2025-03-29,Supermarket,Jessicaland,"Dinner",Vegetarian
+261,112,Pasta,15,2025-03-21,Restaurant,East Courtneymouth,"Lunch",Non-Vegetarian
+262,693,Dairy,47,2025-03-30,Restaurant,Raybury,"Breakfast",Vegetarian
+263,408,Salad,21,2025-03-30,Supermarket,Riceshire,"Breakfast",Vegetarian
+264,484,Bread,49,2025-03-24,Restaurant,North Douglasfurt,"Dinner",Vegetarian
+265,862,Fruits,32,2025-03-26,Grocery Store,East Tammy,"Breakfast",Non-Vegetarian
+266,589,Soup,30,2025-03-23,Restaurant,Morganhaven,"Lunch",Vegetarian
+267,107,Soup,6,2025-03-30,Restaurant,West Lauraborough,"Dinner",Non-Vegetarian
+268,485,Fish,21,2025-03-29,Restaurant,East Andrea,"Breakfast",Non-Vegetarian
+269,595,Soup,36,2025-03-28,Grocery Store,Port Matthew,"Snacks",Non-Vegetarian
+270,201,Pasta,29,2025-03-29,Catering Service,Sandrastad,"Lunch",Vegan
+271,254,Rice,22,2025-03-17,Restaurant,Reidland,"Breakfast",Vegan
+272,151,Vegetables,30,2025-03-25,Restaurant,Anthonyshire,"Dinner",Vegan
+273,446,Salad,32,2025-03-16,Catering Service,Port Richardshire,"Lunch",Non-Vegetarian
+274,768,Salad,37,2025-03-29,Restaurant,South Danielle,"Snacks",Vegan
+275,657,Fish,35,2025-03-24,Supermarket,Davidland,"Breakfast",Non-Vegetarian
+276,839,Fruits,47,2025-03-29,Grocery Store,Port Erin,"Breakfast",Vegan
+277,244,Pasta,30,2025-03-22,Supermarket,Toddberg,"Lunch",Non-Vegetarian
+278,66,Soup,35,2025-03-24,Restaurant,Lake Michaelfurt,"Lunch",Non-Vegetarian
+279,326,Chicken,3,2025-03-25,Supermarket,Lake Alicia,"Lunch",Non-Vegetarian
+280,393,Pasta,44,2025-03-27,Restaurant,Heatherview,"Dinner",Vegan
+281,356,Rice,28,2025-03-23,Supermarket,West Michael,"Breakfast",Non-Vegetarian
+282,640,Fruits,27,2025-03-25,Grocery Store,West Tinamouth,"Lunch",Non-Vegetarian
+283,312,Dairy,7,2025-03-30,Restaurant,North Ianbury,"Breakfast",Non-Vegetarian
+284,161,Vegetables,36,2025-03-27,Supermarket,Perezport,"Breakfast",Vegetarian
+285,353,Rice,44,2025-03-19,Grocery Store,North Aaron,"Breakfast",Vegetarian
+286,43,Pasta,37,2025-03-26,Supermarket,South Karen,"Snacks",Vegetarian
+287,882,Salad,20,2025-03-17,Supermarket,Jenniferville,"Breakfast",Vegan
+288,703,Bread,48,2025-03-22,Catering Service,Lake Jamestown,"Breakfast",Vegetarian
+289,237,Vegetables,31,2025-03-17,Supermarket,Frederickside,"Breakfast",Non-Vegetarian
+290,315,Dairy,19,2025-03-19,Restaurant,Lake Andrewmouth,"Lunch",Non-Vegetarian
+291,785,Salad,12,2025-03-19,Catering Service,Lindseybury,"Breakfast",Vegetarian
+292,906,Chicken,16,2025-03-17,Supermarket,West Kevin,"Breakfast",Non-Vegetarian
+293,276,Rice,32,2025-03-27,Supermarket,Port Eric,"Dinner",Non-Vegetarian
+294,113,Bread,40,2025-03-19,Catering Service,East Elizabethberg,"Dinner",Vegan
+295,344,Soup,39,2025-03-17,Catering Service,North Nicholas,"Dinner",Non-Vegetarian
+296,655,Dairy,24,2025-03-19,Restaurant,Jimmyberg,"Lunch",Vegan
+297,409,Pasta,46,2025-03-19,Grocery Store,East Roberthaven,"Breakfast",Non-Vegetarian
+298,883,Chicken,2,2025-03-22,Supermarket,New Jacob,"Lunch",Vegetarian
+299,718,Dairy,14,2025-03-21,Restaurant,Port Victoria,"Lunch",Non-Vegetarian
+300,459,Pasta,16,2025-03-17,Supermarket,Castilloport,"Snacks",Non-Vegetarian
+301,886,Rice,35,2025-03-24,Restaurant,New Tiffanystad,"Breakfast",Vegan
+302,760,Bread,31,2025-03-23,Supermarket,Yatesside,"Snacks",Vegan
+303,945,Fish,2,2025-03-18,Grocery Store,Tamaraside,"Dinner",Vegan
+304,639,Fish,5,2025-03-19,Supermarket,Richardsonhaven,"Dinner",Vegetarian
+305,38,Soup,14,2025-03-30,Supermarket,Perkinsbury,"Breakfast",Non-Vegetarian
+306,284,Salad,27,2025-03-22,Supermarket,North Julieburgh,"Snacks",Non-Vegetarian
+307,384,Chicken,20,2025-03-20,Grocery Store,Jamesfurt,"Breakfast",Non-Vegetarian
+308,973,Soup,11,2025-03-29,Supermarket,New Larry,"Snacks",Vegan
+309,1000,Chicken,47,2025-03-27,Restaurant,Brendantown,"Snacks",Vegan
+310,528,Rice,13,2025-03-20,Supermarket,Markport,"Dinner",Vegan
+311,740,Fish,3,2025-03-18,Catering Service,Port Marissachester,"Dinner",Vegan
+312,238,Fruits,11,2025-03-26,Grocery Store,North Julieburgh,"Breakfast",Non-Vegetarian
+313,551,Fruits,3,2025-03-26,Restaurant,East Sandratown,"Snacks",Vegetarian
+314,387,Fish,27,2025-03-23,Grocery Store,West Juliabury,"Lunch",Vegetarian
+315,761,Salad,47,2025-03-18,Catering Service,New Zachary,"Dinner",Vegetarian
+316,494,Salad,4,2025-03-28,Supermarket,New Denise,"Dinner",Vegetarian
+317,866,Dairy,22,2025-03-21,Grocery Store,New Robertstad,"Dinner",Non-Vegetarian
+318,946,Pasta,48,2025-03-25,Catering Service,Roystad,"Lunch",Vegan
+319,63,Chicken,47,2025-03-30,Supermarket,Mcclainfurt,"Snacks",Vegetarian
+320,484,Vegetables,26,2025-03-20,Restaurant,North Douglasfurt,"Lunch",Vegetarian
+321,572,Pasta,20,2025-03-18,Supermarket,Lake Cathy,"Lunch",Non-Vegetarian
+322,575,Chicken,12,2025-03-26,Catering Service,Johnport,"Dinner",Non-Vegetarian
+323,4,Dairy,31,2025-03-27,Grocery Store,Mendezmouth,"Snacks",Vegan
+324,346,Soup,39,2025-03-24,Grocery Store,Thomasville,"Snacks",Vegetarian
+325,365,Chicken,32,2025-03-25,Restaurant,West Robert,"Dinner",Vegan
+326,407,Soup,25,2025-03-29,Restaurant,North Charlesside,"Dinner",Vegan
+327,834,Dairy,24,2025-03-22,Supermarket,Harrishaven,"Breakfast",Vegetarian
+328,876,Chicken,36,2025-03-19,Grocery Store,Brookeland,"Snacks",Vegetarian
+329,716,Rice,42,2025-03-17,Catering Service,North Ryan,"Dinner",Vegetarian
+330,407,Rice,49,2025-03-19,Restaurant,North Charlesside,"Snacks",Vegan
+331,480,Fish,8,2025-03-22,Catering Service,East Kevin,"Breakfast",Vegan
+332,616,Rice,12,2025-03-21,Restaurant,Clarkberg,"Dinner",Vegetarian
+333,139,Salad,41,2025-03-20,Supermarket,Port Connie,"Breakfast",Non-Vegetarian
+334,126,Bread,17,2025-03-19,Supermarket,New Rodneyville,"Snacks",Non-Vegetarian
+335,664,Rice,38,2025-03-20,Catering Service,Jeffreyshire,"Snacks",Non-Vegetarian
+336,101,Dairy,36,2025-03-23,Restaurant,East Angelafort,"Snacks",Non-Vegetarian
+337,301,Vegetables,5,2025-03-24,Supermarket,East Laurashire,"Snacks",Vegan
+338,735,Chicken,7,2025-03-19,Restaurant,Westmouth,"Lunch",Non-Vegetarian
+339,512,Pasta,40,2025-03-29,Grocery Store,Port Timothystad,"Dinner",Non-Vegetarian
+340,634,Fruits,3,2025-03-24,Supermarket,Colemanton,"Dinner",Vegetarian
+341,908,Vegetables,48,2025-03-30,Supermarket,East Phillipton,"Dinner",Non-Vegetarian
+342,766,Vegetables,5,2025-03-27,Catering Service,Jonathanmouth,"Lunch",Vegetarian
+343,563,Bread,40,2025-03-27,Grocery Store,East Angela,"Snacks",Vegan
+344,678,Vegetables,44,2025-03-23,Grocery Store,Lake Travis,"Snacks",Vegan
+345,346,Pasta,14,2025-03-20,Grocery Store,Thomasville,"Lunch",Vegan
+346,2,Chicken,16,2025-03-28,Grocery Store,East Sheena,"Snacks",Vegan
+347,567,Chicken,45,2025-03-24,Catering Service,Jonathanstad,"Breakfast",Vegetarian
+348,107,Fish,21,2025-03-27,Restaurant,West Lauraborough,"Lunch",Vegetarian
+349,766,Vegetables,33,2025-03-18,Catering Service,Jonathanmouth,"Breakfast",Vegetarian
+350,828,Pasta,8,2025-03-21,Catering Service,Torresshire,"Breakfast",Non-Vegetarian
+351,678,Bread,45,2025-03-25,Grocery Store,Lake Travis,"Snacks",Non-Vegetarian
+352,692,Vegetables,31,2025-03-28,Supermarket,South Andrewport,"Dinner",Vegetarian
+353,418,Fruits,5,2025-03-29,Restaurant,Deborahfurt,"Lunch",Non-Vegetarian
+354,380,Pasta,3,2025-03-24,Restaurant,Lake Christophermouth,"Lunch",Vegan
+355,662,Pasta,10,2025-03-22,Supermarket,Port Lesliebury,"Dinner",Vegetarian
+356,71,Fish,27,2025-03-20,Restaurant,Ruizmouth,"Lunch",Vegan
+357,939,Chicken,1,2025-03-23,Catering Service,New Monicaside,"Dinner",Vegan
+358,810,Fruits,41,2025-03-21,Catering Service,Lake Jason,"Breakfast",Vegetarian
+359,811,Bread,6,2025-03-23,Grocery Store,East Emily,"Lunch",Non-Vegetarian
+360,22,Chicken,12,2025-03-18,Catering Service,Port Lisamouth,"Dinner",Vegan
+361,391,Dairy,17,2025-03-16,Supermarket,South Jerryside,"Breakfast",Vegetarian
+362,785,Chicken,29,2025-03-27,Catering Service,Lindseybury,"Snacks",Vegan
+363,770,Bread,24,2025-03-23,Supermarket,East Melissa,"Breakfast",Non-Vegetarian
+364,540,Fish,33,2025-03-22,Catering Service,Henrychester,"Snacks",Non-Vegetarian
+365,71,Fruits,48,2025-03-27,Restaurant,Ruizmouth,"Dinner",Non-Vegetarian
+366,331,Chicken,25,2025-03-24,Catering Service,South Jeffreyburgh,"Lunch",Non-Vegetarian
+367,610,Vegetables,38,2025-03-29,Supermarket,Allenton,"Snacks",Non-Vegetarian
+368,826,Salad,1,2025-03-16,Supermarket,Lake Karenfurt,"Lunch",Non-Vegetarian
+369,523,Fruits,23,2025-03-16,Restaurant,Lake Lorrainefort,"Breakfast",Vegan
+370,783,Fruits,35,2025-03-16,Restaurant,Port Melanie,"Lunch",Vegan
+371,154,Bread,34,2025-03-21,Supermarket,New John,"Lunch",Non-Vegetarian
+372,138,Pasta,11,2025-03-25,Grocery Store,North Sherrimouth,"Snacks",Vegan
+373,252,Rice,39,2025-03-21,Grocery Store,Phillipsfort,"Lunch",Non-Vegetarian
+374,709,Chicken,44,2025-03-21,Restaurant,South Kathryn,"Lunch",Vegan
+375,569,Vegetables,15,2025-03-28,Grocery Store,South Russelltown,"Dinner",Vegan
+376,41,Vegetables,47,2025-03-25,Catering Service,Bentleyburgh,"Lunch",Vegan
+377,737,Pasta,22,2025-03-25,Restaurant,Port Andrea,"Breakfast",Non-Vegetarian
+378,834,Soup,39,2025-03-19,Supermarket,Harrishaven,"Lunch",Vegetarian
+379,312,Rice,14,2025-03-18,Restaurant,North Ianbury,"Lunch",Vegetarian
+380,985,Soup,26,2025-03-22,Restaurant,Harrisonbury,"Snacks",Non-Vegetarian
+381,86,Pasta,35,2025-03-18,Catering Service,New Michelle,"Dinner",Vegan
+382,208,Salad,42,2025-03-20,Restaurant,East Garyton,"Dinner",Non-Vegetarian
+383,783,Vegetables,48,2025-03-19,Restaurant,Port Melanie,"Lunch",Vegan
+384,614,Fish,14,2025-03-26,Supermarket,Robertshire,"Snacks",Vegan
+385,885,Pasta,7,2025-03-25,Restaurant,Lake Stephen,"Dinner",Non-Vegetarian
+386,697,Salad,30,2025-03-22,Restaurant,Padillatown,"Snacks",Vegetarian
+387,958,Rice,31,2025-03-24,Restaurant,Lake Vanessaland,"Dinner",Vegan
+388,858,Soup,41,2025-03-25,Restaurant,Johnsonborough,"Dinner",Vegetarian
+389,707,Vegetables,30,2025-03-18,Supermarket,Laurietown,"Snacks",Non-Vegetarian
+390,264,Soup,19,2025-03-27,Catering Service,New Richard,"Lunch",Non-Vegetarian
+391,321,Bread,40,2025-03-25,Restaurant,North Edwinchester,"Lunch",Vegan
+392,599,Soup,34,2025-03-19,Restaurant,Carlborough,"Dinner",Vegan
+393,404,Bread,50,2025-03-28,Restaurant,Brownchester,"Breakfast",Vegan
+394,485,Fruits,30,2025-03-21,Restaurant,East Andrea,"Dinner",Vegetarian
+395,717,Vegetables,36,2025-03-28,Catering Service,Pamelaberg,"Lunch",Vegan
+396,726,Dairy,5,2025-03-17,Supermarket,Shortfurt,"Dinner",Non-Vegetarian
+397,987,Salad,14,2025-03-21,Supermarket,South Kevinhaven,"Breakfast",Non-Vegetarian
+398,802,Dairy,27,2025-03-20,Catering Service,North Katherineshire,"Snacks",Non-Vegetarian
+399,593,Chicken,16,2025-03-29,Grocery Store,Tammyside,"Lunch",Vegetarian
+400,897,Rice,42,2025-03-29,Catering Service,Villastad,"Lunch",Vegan
+401,582,Soup,42,2025-03-18,Grocery Store,West Dannyland,"Lunch",Vegetarian
+402,429,Fish,11,2025-03-29,Grocery Store,Lake Benjamin,"Lunch",Non-Vegetarian
+403,133,Bread,25,2025-03-28,Catering Service,South Michaelberg,"Breakfast",Non-Vegetarian
+404,691,Salad,10,2025-03-18,Restaurant,Youngchester,"Snacks",Vegetarian
+405,241,Bread,16,2025-03-20,Catering Service,Devinmouth,"Lunch",Vegetarian
+406,222,Salad,28,2025-03-22,Catering Service,Stephanieberg,"Snacks",Vegetarian
+407,912,Chicken,32,2025-03-20,Catering Service,Blaketown,"Lunch",Vegetarian
+408,391,Soup,42,2025-03-24,Supermarket,South Jerryside,"Breakfast",Non-Vegetarian
+409,898,Chicken,46,2025-03-24,Restaurant,Medinatown,"Dinner",Vegetarian
+410,273,Salad,21,2025-03-19,Supermarket,New Carol,"Snacks",Non-Vegetarian
+411,419,Soup,39,2025-03-30,Supermarket,Port Peter,"Breakfast",Non-Vegetarian
+412,999,Chicken,10,2025-03-28,Grocery Store,Stevenchester,"Snacks",Non-Vegetarian
+413,315,Salad,31,2025-03-24,Restaurant,Lake Andrewmouth,"Lunch",Vegetarian
+414,353,Vegetables,7,2025-03-21,Grocery Store,North Aaron,"Snacks",Non-Vegetarian
+415,537,Vegetables,18,2025-03-23,Restaurant,Callahanside,"Breakfast",Vegan
+416,888,Soup,49,2025-03-26,Supermarket,West Sharonview,"Dinner",Vegan
+417,196,Soup,49,2025-03-19,Restaurant,Bartonborough,"Snacks",Vegan
+418,685,Vegetables,19,2025-03-30,Supermarket,Maysside,"Lunch",Non-Vegetarian
+419,585,Rice,26,2025-03-19,Grocery Store,Port Donnaton,"Breakfast",Vegetarian
+420,386,Soup,13,2025-03-26,Grocery Store,Wheelermouth,"Breakfast",Vegan
+421,676,Dairy,24,2025-03-17,Catering Service,Lake Jasmin,"Dinner",Vegetarian
+422,550,Soup,2,2025-03-20,Catering Service,Timothychester,"Breakfast",Non-Vegetarian
+423,926,Fish,6,2025-03-30,Grocery Store,North Chase,"Breakfast",Vegan
+424,910,Pasta,41,2025-03-27,Restaurant,Leeburgh,"Lunch",Non-Vegetarian
+425,4,Chicken,19,2025-03-24,Grocery Store,Mendezmouth,"Breakfast",Non-Vegetarian
+426,461,Bread,6,2025-03-22,Restaurant,New Hannah,"Dinner",Vegetarian
+427,338,Soup,34,2025-03-18,Catering Service,Adambury,"Lunch",Non-Vegetarian
+428,242,Dairy,35,2025-03-16,Restaurant,Michaelport,"Snacks",Vegetarian
+429,178,Pasta,34,2025-03-17,Catering Service,Scottchester,"Lunch",Non-Vegetarian
+430,853,Dairy,33,2025-03-28,Catering Service,East Michelle,"Snacks",Vegan
+431,144,Pasta,21,2025-03-20,Catering Service,Bellport,"Lunch",Non-Vegetarian
+432,979,Dairy,34,2025-03-17,Restaurant,West Hunter,"Breakfast",Non-Vegetarian
+433,892,Dairy,50,2025-03-18,Grocery Store,Russellfurt,"Lunch",Vegetarian
+434,460,Vegetables,20,2025-03-23,Grocery Store,Lake Justin,"Snacks",Non-Vegetarian
+435,373,Chicken,26,2025-03-30,Grocery Store,Aprilberg,"Lunch",Non-Vegetarian
+436,126,Pasta,6,2025-03-26,Supermarket,New Rodneyville,"Snacks",Vegan
+437,345,Chicken,29,2025-03-16,Catering Service,North Tracy,"Dinner",Non-Vegetarian
+438,84,Dairy,46,2025-03-20,Restaurant,Marthaside,"Breakfast",Vegetarian
+439,986,Fruits,41,2025-03-16,Supermarket,Port David,"Dinner",Vegan
+440,499,Pasta,34,2025-03-21,Catering Service,Jonathanstad,"Lunch",Vegan
+441,919,Fruits,2,2025-03-18,Supermarket,Port Tanyaburgh,"Lunch",Vegetarian
+442,905,Fish,20,2025-03-18,Restaurant,North Kennethshire,"Lunch",Non-Vegetarian
+443,671,Chicken,34,2025-03-22,Grocery Store,North Catherine,"Lunch",Non-Vegetarian
+444,117,Dairy,27,2025-03-27,Restaurant,Amberton,"Lunch",Non-Vegetarian
+445,995,Pasta,13,2025-03-18,Supermarket,Manningshire,"Lunch",Vegan
+446,39,Bread,9,2025-03-24,Supermarket,Brittanyville,"Snacks",Non-Vegetarian
+447,736,Soup,21,2025-03-26,Supermarket,East Anthony,"Lunch",Vegetarian
+448,221,Vegetables,25,2025-03-23,Supermarket,Walterborough,"Snacks",Vegan
+449,655,Dairy,21,2025-03-17,Restaurant,Jimmyberg,"Dinner",Vegetarian
+450,368,Bread,9,2025-03-23,Grocery Store,North Lindseychester,"Dinner",Non-Vegetarian
+451,713,Fish,14,2025-03-18,Grocery Store,Smithmouth,"Breakfast",Vegan
+452,871,Vegetables,47,2025-03-23,Supermarket,Madelinechester,"Dinner",Vegan
+453,664,Fish,21,2025-03-21,Catering Service,Jeffreyshire,"Lunch",Vegetarian
+454,189,Pasta,4,2025-03-22,Supermarket,Brianside,"Lunch",Vegetarian
+455,630,Pasta,17,2025-03-27,Catering Service,West Matthew,"Dinner",Vegan
+456,144,Vegetables,16,2025-03-19,Catering Service,Bellport,"Snacks",Vegetarian
+457,347,Soup,30,2025-03-25,Supermarket,Louismouth,"Lunch",Non-Vegetarian
+458,210,Dairy,16,2025-03-23,Grocery Store,Paulmouth,"Lunch",Vegan
+459,213,Rice,2,2025-03-22,Grocery Store,Andersonville,"Snacks",Vegetarian
+460,202,Dairy,45,2025-03-17,Supermarket,Vazquezshire,"Dinner",Vegetarian
+461,511,Pasta,10,2025-03-19,Grocery Store,Port Davidshire,"Dinner",Vegetarian
+462,85,Soup,22,2025-03-23,Catering Service,Christopherstad,"Dinner",Vegan
+463,384,Soup,36,2025-03-17,Grocery Store,Jamesfurt,"Lunch",Vegan
+464,201,Fish,27,2025-03-20,Catering Service,Sandrastad,"Lunch",Vegetarian
+465,532,Rice,32,2025-03-19,Grocery Store,Darrylchester,"Snacks",Vegetarian
+466,729,Rice,6,2025-03-30,Grocery Store,Lake Nathan,"Dinner",Vegetarian
+467,337,Dairy,7,2025-03-28,Restaurant,New Ricky,"Dinner",Non-Vegetarian
+468,258,Fruits,1,2025-03-27,Restaurant,Lake Anthonyport,"Breakfast",Vegetarian
+469,388,Vegetables,7,2025-03-30,Supermarket,Manuelhaven,"Snacks",Vegetarian
+470,435,Salad,38,2025-03-17,Restaurant,Port Leahfurt,"Dinner",Vegan
+471,637,Pasta,15,2025-03-30,Grocery Store,East Williamshire,"Lunch",Vegetarian
+472,340,Salad,21,2025-03-20,Grocery Store,Murrayborough,"Snacks",Non-Vegetarian
+473,528,Chicken,19,2025-03-30,Supermarket,Markport,"Breakfast",Vegetarian
+474,215,Rice,5,2025-03-22,Grocery Store,New Curtis,"Dinner",Vegetarian
+475,357,Pasta,13,2025-03-26,Supermarket,Donnaborough,"Dinner",Vegetarian
+476,993,Fruits,2,2025-03-28,Restaurant,East Stephanie,"Dinner",Non-Vegetarian
+477,262,Dairy,40,2025-03-18,Supermarket,New Carol,"Breakfast",Vegan
+478,928,Soup,43,2025-03-17,Catering Service,Zimmermanton,"Lunch",Vegetarian
+479,786,Salad,2,2025-03-18,Restaurant,Basstown,"Breakfast",Vegetarian
+480,517,Pasta,25,2025-03-24,Grocery Store,Wadeville,"Lunch",Non-Vegetarian
+481,705,Dairy,16,2025-03-19,Grocery Store,East Robert,"Dinner",Vegan
+482,912,Salad,32,2025-03-27,Catering Service,Blaketown,"Dinner",Non-Vegetarian
+483,933,Vegetables,36,2025-03-29,Catering Service,Anthonyborough,"Snacks",Vegetarian
+484,133,Bread,15,2025-03-22,Catering Service,South Michaelberg,"Snacks",Vegan
+485,185,Salad,50,2025-03-18,Restaurant,Shirleyland,"Lunch",Vegan
+486,550,Chicken,9,2025-03-25,Catering Service,Timothychester,"Snacks",Vegan
+487,499,Fruits,43,2025-03-18,Catering Service,Jonathanstad,"Dinner",Vegetarian
+488,527,Fish,22,2025-03-19,Supermarket,Bonillahaven,"Breakfast",Vegetarian
+489,705,Fish,39,2025-03-25,Grocery Store,East Robert,"Dinner",Vegetarian
+490,563,Salad,3,2025-03-24,Grocery Store,East Angela,"Snacks",Non-Vegetarian
+491,139,Fruits,23,2025-03-25,Supermarket,Port Connie,"Lunch",Vegan
+492,295,Pasta,30,2025-03-28,Restaurant,Meghanfurt,"Breakfast",Vegetarian
+493,102,Fish,26,2025-03-30,Grocery Store,West Samantha,"Snacks",Vegetarian
+494,129,Bread,41,2025-03-24,Restaurant,Port Emily,"Breakfast",Vegetarian
+495,494,Pasta,34,2025-03-22,Supermarket,New Denise,"Dinner",Vegetarian
+496,552,Chicken,22,2025-03-28,Catering Service,Pearsonchester,"Dinner",Vegetarian
+497,709,Dairy,48,2025-03-27,Restaurant,South Kathryn,"Dinner",Vegetarian
+498,507,Rice,28,2025-03-16,Grocery Store,Lake Diane,"Snacks",Non-Vegetarian
+499,154,Salad,6,2025-03-23,Supermarket,New John,"Snacks",Non-Vegetarian
+500,230,Pasta,14,2025-03-30,Grocery Store,North Melanie,"Dinner",Vegan
+501,11,Chicken,27,2025-03-24,Supermarket,South Robert,"Lunch",Vegetarian
+502,123,Dairy,40,2025-03-19,Grocery Store,East Meganfort,"Lunch",Vegan
+503,861,Rice,40,2025-03-29,Grocery Store,Lake Kendramouth,"Snacks",Non-Vegetarian
+504,227,Rice,28,2025-03-30,Grocery Store,Derekport,"Lunch",Vegetarian
+505,494,Pasta,12,2025-03-22,Supermarket,New Denise,"Snacks",Vegetarian
+506,793,Fruits,37,2025-03-29,Grocery Store,West Brandon,"Snacks",Non-Vegetarian
+507,968,Chicken,43,2025-03-26,Restaurant,Christopherton,"Lunch",Vegetarian
+508,176,Dairy,42,2025-03-18,Restaurant,East John,"Lunch",Vegan
+509,980,Dairy,18,2025-03-17,Restaurant,Port Melissa,"Snacks",Non-Vegetarian
+510,697,Salad,33,2025-03-28,Restaurant,Padillatown,"Dinner",Non-Vegetarian
+511,879,Salad,25,2025-03-27,Supermarket,Lake Michael,"Snacks",Vegan
+512,911,Chicken,20,2025-03-27,Restaurant,Garciatown,"Lunch",Vegetarian
+513,255,Fruits,49,2025-03-18,Supermarket,Crystalborough,"Snacks",Vegetarian
+514,880,Salad,20,2025-03-24,Catering Service,Sheenashire,"Snacks",Vegetarian
+515,725,Dairy,10,2025-03-27,Grocery Store,New Evanport,"Lunch",Vegan
+516,846,Fish,24,2025-03-23,Supermarket,South Thomasville,"Breakfast",Non-Vegetarian
+517,45,Dairy,4,2025-03-26,Catering Service,East Deniseborough,"Dinner",Vegan
+518,210,Fruits,46,2025-03-22,Grocery Store,Paulmouth,"Lunch",Vegan
+519,7,Pasta,43,2025-03-26,Restaurant,Lake Christopherburgh,"Lunch",Non-Vegetarian
+520,559,Fish,23,2025-03-25,Catering Service,New Baileyfort,"Breakfast",Non-Vegetarian
+521,792,Vegetables,23,2025-03-17,Catering Service,Mortonfort,"Snacks",Vegan
+522,783,Rice,7,2025-03-22,Restaurant,Port Melanie,"Lunch",Vegetarian
+523,351,Salad,29,2025-03-22,Grocery Store,South Stefanietown,"Lunch",Non-Vegetarian
+524,387,Soup,25,2025-03-18,Grocery Store,West Juliabury,"Snacks",Vegan
+525,717,Soup,30,2025-03-16,Catering Service,Pamelaberg,"Lunch",Vegetarian
+526,883,Rice,11,2025-03-30,Supermarket,New Jacob,"Lunch",Vegetarian
+527,674,Dairy,3,2025-03-23,Restaurant,Anthonyhaven,"Snacks",Non-Vegetarian
+528,677,Chicken,6,2025-03-27,Grocery Store,Williamsmouth,"Snacks",Vegan
+529,901,Dairy,48,2025-03-17,Supermarket,West Melissastad,"Dinner",Non-Vegetarian
+530,583,Soup,32,2025-03-27,Catering Service,Marcstad,"Breakfast",Vegetarian
+531,57,Salad,42,2025-03-17,Grocery Store,Port Robin,"Lunch",Vegan
+532,550,Bread,50,2025-03-20,Catering Service,Timothychester,"Breakfast",Non-Vegetarian
+533,273,Fruits,25,2025-03-17,Supermarket,New Carol,"Breakfast",Vegetarian
+534,223,Vegetables,34,2025-03-30,Restaurant,Longland,"Dinner",Non-Vegetarian
+535,668,Fish,24,2025-03-29,Grocery Store,Salinasville,"Snacks",Vegan
+536,683,Rice,13,2025-03-19,Grocery Store,Christinetown,"Dinner",Vegan
+537,949,Salad,9,2025-03-17,Supermarket,Lake Deborah,"Breakfast",Vegetarian
+538,840,Dairy,18,2025-03-29,Restaurant,Cisnerostown,"Lunch",Vegetarian
+539,161,Vegetables,14,2025-03-22,Supermarket,Perezport,"Breakfast",Vegetarian
+540,31,Soup,33,2025-03-22,Grocery Store,South Kellyberg,"Snacks",Non-Vegetarian
+541,549,Vegetables,12,2025-03-29,Catering Service,East Deborah,"Dinner",Vegan
+542,926,Bread,7,2025-03-26,Grocery Store,North Chase,"Lunch",Vegetarian
+543,526,Fruits,9,2025-03-26,Supermarket,South Tylerstad,"Dinner",Vegan
+544,551,Soup,36,2025-03-30,Restaurant,East Sandratown,"Dinner",Non-Vegetarian
+545,984,Pasta,23,2025-03-29,Catering Service,South Edwardtown,"Snacks",Vegetarian
+546,116,Pasta,33,2025-03-24,Grocery Store,Moseshaven,"Snacks",Vegan
+547,825,Chicken,26,2025-03-23,Supermarket,South Bryan,"Snacks",Vegan
+548,714,Fish,26,2025-03-19,Catering Service,North William,"Snacks",Vegan
+549,631,Rice,34,2025-03-23,Supermarket,North Kevinhaven,"Breakfast",Non-Vegetarian
+550,836,Rice,16,2025-03-29,Catering Service,New Ninashire,"Dinner",Vegan
+551,245,Chicken,4,2025-03-26,Restaurant,Lake Heather,"Lunch",Vegan
+552,98,Dairy,44,2025-03-21,Supermarket,Gardnerfort,"Dinner",Vegetarian
+553,93,Salad,36,2025-03-24,Supermarket,New Daniel,"Breakfast",Vegan
+554,754,Soup,31,2025-03-20,Restaurant,North Sharonburgh,"Breakfast",Non-Vegetarian
+555,371,Dairy,47,2025-03-20,Grocery Store,Solisburgh,"Breakfast",Vegan
+556,938,Fish,48,2025-03-21,Restaurant,Hollyhaven,"Lunch",Vegan
+557,169,Vegetables,20,2025-03-30,Grocery Store,Lindseyland,"Dinner",Non-Vegetarian
+558,267,Chicken,32,2025-03-20,Catering Service,Port Kevinburgh,"Snacks",Vegetarian
+559,814,Salad,18,2025-03-22,Grocery Store,Allenborough,"Dinner",Vegan
+560,850,Fruits,41,2025-03-18,Grocery Store,North Stevenbury,"Snacks",Non-Vegetarian
+561,861,Pasta,47,2025-03-20,Grocery Store,Lake Kendramouth,"Lunch",Non-Vegetarian
+562,906,Dairy,3,2025-03-30,Supermarket,West Kevin,"Dinner",Vegan
+563,554,Pasta,37,2025-03-19,Restaurant,Brandyberg,"Lunch",Non-Vegetarian
+564,518,Fish,29,2025-03-28,Grocery Store,Anneville,"Lunch",Non-Vegetarian
+565,41,Pasta,36,2025-03-24,Catering Service,Bentleyburgh,"Lunch",Non-Vegetarian
+566,328,Fish,8,2025-03-17,Grocery Store,Port Rubenville,"Lunch",Vegan
+567,234,Bread,3,2025-03-28,Catering Service,New Joel,"Breakfast",Vegetarian
+568,709,Fruits,11,2025-03-29,Restaurant,South Kathryn,"Breakfast",Non-Vegetarian
+569,68,Fish,20,2025-03-25,Supermarket,North Elizabeth,"Lunch",Vegan
+570,659,Vegetables,8,2025-03-16,Restaurant,East Lori,"Breakfast",Non-Vegetarian
+571,49,Salad,39,2025-03-18,Supermarket,Lake Traceyburgh,"Breakfast",Non-Vegetarian
+572,212,Bread,46,2025-03-22,Supermarket,Port Markview,"Dinner",Vegetarian
+573,111,Fish,40,2025-03-30,Supermarket,South Davidside,"Snacks",Vegetarian
+574,239,Vegetables,17,2025-03-29,Grocery Store,South Bradleyburgh,"Breakfast",Non-Vegetarian
+575,88,Pasta,15,2025-03-18,Restaurant,Salastown,"Breakfast",Non-Vegetarian
+576,786,Salad,35,2025-03-24,Restaurant,Basstown,"Lunch",Non-Vegetarian
+577,161,Bread,30,2025-03-29,Supermarket,Perezport,"Dinner",Non-Vegetarian
+578,285,Salad,27,2025-03-29,Restaurant,West Corey,"Snacks",Vegan
+579,885,Dairy,44,2025-03-24,Restaurant,Lake Stephen,"Breakfast",Vegetarian
+580,497,Rice,21,2025-03-24,Catering Service,Chelseyfort,"Snacks",Non-Vegetarian
+581,656,Salad,8,2025-03-20,Restaurant,South Tiffanyfort,"Breakfast",Vegetarian
+582,501,Soup,44,2025-03-20,Grocery Store,Jordanhaven,"Snacks",Vegetarian
+583,938,Vegetables,44,2025-03-23,Restaurant,Hollyhaven,"Dinner",Non-Vegetarian
+584,590,Salad,16,2025-03-30,Grocery Store,Richchester,"Snacks",Non-Vegetarian
+585,514,Rice,3,2025-03-26,Supermarket,Maxwellburgh,"Breakfast",Vegetarian
+586,54,Vegetables,37,2025-03-18,Supermarket,Lake Rachael,"Breakfast",Vegetarian
+587,192,Fruits,22,2025-03-21,Catering Service,Leslieville,"Dinner",Non-Vegetarian
+588,709,Dairy,31,2025-03-27,Restaurant,South Kathryn,"Breakfast",Non-Vegetarian
+589,20,Rice,49,2025-03-20,Catering Service,East Samantha,"Dinner",Vegetarian
+590,56,Fruits,11,2025-03-28,Catering Service,Michaelview,"Snacks",Vegan
+591,154,Fruits,19,2025-03-28,Supermarket,New John,"Breakfast",Vegetarian
+592,341,Rice,13,2025-03-23,Grocery Store,Lake Ryanbury,"Lunch",Vegan
+593,515,Soup,2,2025-03-23,Restaurant,Snyderton,"Lunch",Vegan
+594,140,Chicken,35,2025-03-28,Restaurant,Watsonstad,"Breakfast",Non-Vegetarian
+595,358,Salad,42,2025-03-19,Restaurant,South Crystalberg,"Lunch",Vegan
+596,158,Fish,44,2025-03-29,Catering Service,North Crystal,"Lunch",Non-Vegetarian
+597,563,Dairy,12,2025-03-20,Grocery Store,East Angela,"Lunch",Vegetarian
+598,981,Rice,19,2025-03-27,Restaurant,West Stevenport,"Lunch",Non-Vegetarian
+599,232,Fruits,19,2025-03-30,Supermarket,Muellermouth,"Lunch",Vegetarian
+600,505,Rice,39,2025-03-24,Restaurant,Chelseaside,"Snacks",Non-Vegetarian
+601,140,Vegetables,9,2025-03-27,Restaurant,Watsonstad,"Snacks",Vegan
+602,913,Chicken,15,2025-03-25,Grocery Store,Erikatown,"Breakfast",Non-Vegetarian
+603,858,Rice,37,2025-03-28,Restaurant,Johnsonborough,"Lunch",Non-Vegetarian
+604,578,Pasta,47,2025-03-27,Catering Service,Port Carrie,"Breakfast",Vegan
+605,429,Vegetables,20,2025-03-23,Grocery Store,Lake Benjamin,"Dinner",Vegetarian
+606,932,Pasta,36,2025-03-22,Supermarket,New Ginaborough,"Dinner",Vegetarian
+607,556,Vegetables,23,2025-03-20,Catering Service,Brittanyland,"Dinner",Vegetarian
+608,17,Vegetables,27,2025-03-28,Catering Service,West Dawn,"Dinner",Non-Vegetarian
+609,541,Bread,38,2025-03-23,Catering Service,West Karen,"Breakfast",Vegetarian
+610,477,Pasta,13,2025-03-30,Supermarket,East Jacobchester,"Breakfast",Non-Vegetarian
+611,993,Vegetables,40,2025-03-30,Restaurant,East Stephanie,"Snacks",Vegetarian
+612,874,Vegetables,45,2025-03-17,Catering Service,Priceland,"Lunch",Non-Vegetarian
+613,592,Bread,42,2025-03-20,Restaurant,North Brendaborough,"Dinner",Vegetarian
+614,146,Salad,43,2025-03-16,Supermarket,Jonathanhaven,"Lunch",Vegan
+615,104,Salad,11,2025-03-23,Catering Service,Lake Theresa,"Breakfast",Vegetarian
+616,735,Fish,35,2025-03-20,Restaurant,Westmouth,"Dinner",Non-Vegetarian
+617,507,Soup,27,2025-03-18,Grocery Store,Lake Diane,"Lunch",Vegetarian
+618,929,Soup,9,2025-03-18,Catering Service,Lake Richardhaven,"Dinner",Non-Vegetarian
+619,725,Pasta,46,2025-03-29,Grocery Store,New Evanport,"Snacks",Vegan
+620,497,Chicken,7,2025-03-20,Catering Service,Chelseyfort,"Dinner",Vegetarian
+621,979,Soup,23,2025-03-21,Restaurant,West Hunter,"Lunch",Non-Vegetarian
+622,857,Fish,17,2025-03-24,Supermarket,Jordanborough,"Snacks",Vegan
+623,37,Salad,38,2025-03-29,Catering Service,New Amanda,"Breakfast",Vegetarian
+624,475,Fish,10,2025-03-16,Catering Service,Bentonfurt,"Breakfast",Non-Vegetarian
+625,632,Rice,7,2025-03-22,Supermarket,Davidville,"Breakfast",Vegan
+626,274,Salad,37,2025-03-29,Supermarket,New Dawnborough,"Breakfast",Non-Vegetarian
+627,890,Vegetables,26,2025-03-17,Restaurant,Pereztown,"Breakfast",Non-Vegetarian
+628,758,Fish,5,2025-03-16,Catering Service,Port Patrick,"Snacks",Non-Vegetarian
+629,694,Bread,33,2025-03-20,Supermarket,Amandashire,"Breakfast",Vegan
+630,478,Bread,39,2025-03-25,Catering Service,Lake Regina,"Snacks",Vegan
+631,232,Pasta,49,2025-03-30,Supermarket,Muellermouth,"Dinner",Non-Vegetarian
+632,850,Fruits,45,2025-03-25,Grocery Store,North Stevenbury,"Breakfast",Vegan
+633,922,Salad,19,2025-03-28,Restaurant,Lake Michael,"Snacks",Vegan
+634,205,Bread,40,2025-03-16,Grocery Store,Carlbury,"Breakfast",Non-Vegetarian
+635,251,Pasta,18,2025-03-26,Restaurant,East Terrancemouth,"Dinner",Vegetarian
+636,687,Fish,11,2025-03-25,Catering Service,North James,"Lunch",Non-Vegetarian
+637,873,Chicken,49,2025-03-30,Catering Service,East Sonyaport,"Lunch",Non-Vegetarian
+638,421,Rice,12,2025-03-21,Supermarket,Kylehaven,"Dinner",Non-Vegetarian
+639,60,Salad,5,2025-03-20,Restaurant,Wilsonport,"Lunch",Non-Vegetarian
+640,422,Pasta,2,2025-03-17,Catering Service,Smithfort,"Breakfast",Non-Vegetarian
+641,692,Bread,9,2025-03-30,Supermarket,South Andrewport,"Snacks",Vegan
+642,365,Chicken,38,2025-03-29,Restaurant,West Robert,"Dinner",Non-Vegetarian
+643,240,Salad,8,2025-03-23,Catering Service,Andreaborough,"Dinner",Vegan
+644,42,Bread,21,2025-03-18,Grocery Store,East Nicholasbury,"Snacks",Non-Vegetarian
+645,643,Soup,34,2025-03-21,Supermarket,North Ebony,"Breakfast",Vegetarian
+646,417,Fruits,44,2025-03-17,Restaurant,East Ashleyshire,"Breakfast",Vegetarian
+647,184,Rice,1,2025-03-18,Grocery Store,Velazquezview,"Snacks",Vegan
+648,904,Rice,42,2025-03-23,Grocery Store,West Miaside,"Breakfast",Non-Vegetarian
+649,806,Dairy,8,2025-03-30,Supermarket,West Samuelfurt,"Lunch",Vegetarian
+650,288,Soup,40,2025-03-16,Supermarket,Maynardstad,"Breakfast",Non-Vegetarian
+651,72,Pasta,36,2025-03-16,Catering Service,Jasonstad,"Snacks",Non-Vegetarian
+652,634,Fruits,44,2025-03-23,Supermarket,Colemanton,"Dinner",Non-Vegetarian
+653,573,Soup,50,2025-03-25,Supermarket,New Thomasmouth,"Breakfast",Non-Vegetarian
+654,765,Bread,2,2025-03-26,Grocery Store,South Douglashaven,"Dinner",Vegetarian
+655,491,Salad,46,2025-03-27,Supermarket,Samanthabury,"Snacks",Non-Vegetarian
+656,432,Bread,26,2025-03-25,Restaurant,Carolchester,"Dinner",Vegetarian
+657,239,Rice,14,2025-03-28,Grocery Store,South Bradleyburgh,"Lunch",Vegan
+658,769,Vegetables,4,2025-03-26,Catering Service,Carrport,"Dinner",Non-Vegetarian
+659,707,Salad,4,2025-03-27,Supermarket,Laurietown,"Dinner",Non-Vegetarian
+660,138,Salad,42,2025-03-17,Grocery Store,North Sherrimouth,"Snacks",Vegetarian
+661,906,Bread,12,2025-03-25,Supermarket,West Kevin,"Dinner",Vegan
+662,498,Soup,47,2025-03-30,Grocery Store,East Craig,"Snacks",Vegan
+663,315,Dairy,42,2025-03-24,Restaurant,Lake Andrewmouth,"Snacks",Vegan
+664,327,Bread,34,2025-03-20,Restaurant,Villaborough,"Breakfast",Non-Vegetarian
+665,142,Pasta,7,2025-03-18,Catering Service,Mitchellmouth,"Dinner",Vegan
+666,835,Vegetables,47,2025-03-21,Catering Service,Thorntonbury,"Dinner",Non-Vegetarian
+667,961,Soup,30,2025-03-21,Restaurant,New Amanda,"Lunch",Vegetarian
+668,357,Salad,48,2025-03-20,Supermarket,Donnaborough,"Snacks",Non-Vegetarian
+669,164,Vegetables,14,2025-03-27,Grocery Store,Sylviabury,"Dinner",Vegetarian
+670,289,Salad,37,2025-03-24,Supermarket,Toddstad,"Snacks",Non-Vegetarian
+671,498,Salad,49,2025-03-24,Grocery Store,East Craig,"Breakfast",Vegetarian
+672,555,Bread,2,2025-03-24,Grocery Store,South Brenda,"Snacks",Vegetarian
+673,677,Rice,28,2025-03-20,Grocery Store,Williamsmouth,"Lunch",Vegan
+674,518,Vegetables,34,2025-03-17,Grocery Store,Anneville,"Lunch",Vegetarian
+675,117,Soup,25,2025-03-26,Restaurant,Amberton,"Dinner",Vegan
+676,577,Soup,15,2025-03-23,Catering Service,Lake Donna,"Dinner",Non-Vegetarian
+677,672,Dairy,43,2025-03-16,Catering Service,North Mariahchester,"Breakfast",Vegan
+678,177,Pasta,8,2025-03-24,Supermarket,South Nicholasville,"Snacks",Vegetarian
+679,698,Bread,24,2025-03-24,Grocery Store,Phillipsmouth,"Snacks",Non-Vegetarian
+680,499,Dairy,47,2025-03-23,Catering Service,Jonathanstad,"Snacks",Non-Vegetarian
+681,616,Bread,28,2025-03-27,Restaurant,Clarkberg,"Breakfast",Non-Vegetarian
+682,87,Pasta,30,2025-03-25,Grocery Store,West Adam,"Snacks",Vegetarian
+683,726,Soup,28,2025-03-18,Supermarket,Shortfurt,"Dinner",Vegetarian
+684,221,Rice,39,2025-03-29,Supermarket,Walterborough,"Snacks",Vegetarian
+685,332,Rice,39,2025-03-18,Restaurant,West Whitneymouth,"Dinner",Vegetarian
+686,707,Salad,15,2025-03-28,Supermarket,Laurietown,"Dinner",Vegetarian
+687,326,Pasta,5,2025-03-29,Supermarket,Lake Alicia,"Lunch",Vegan
+688,536,Salad,6,2025-03-22,Restaurant,South Donald,"Snacks",Vegan
+689,350,Pasta,34,2025-03-21,Restaurant,Port Dustin,"Breakfast",Vegetarian
+690,779,Fruits,43,2025-03-16,Supermarket,New Bobbytown,"Breakfast",Vegetarian
+691,65,Rice,21,2025-03-28,Grocery Store,Lake Raymondton,"Dinner",Vegan
+692,332,Bread,8,2025-03-17,Restaurant,West Whitneymouth,"Dinner",Non-Vegetarian
+693,563,Chicken,6,2025-03-24,Grocery Store,East Angela,"Dinner",Vegetarian
+694,995,Bread,50,2025-03-22,Supermarket,Manningshire,"Dinner",Vegetarian
+695,176,Fruits,17,2025-03-23,Restaurant,East John,"Breakfast",Vegetarian
+696,752,Rice,26,2025-03-24,Grocery Store,East Heatherport,"Snacks",Non-Vegetarian
+697,817,Chicken,42,2025-03-21,Restaurant,Walterton,"Breakfast",Vegan
+698,872,Rice,16,2025-03-22,Supermarket,Ramosville,"Lunch",Non-Vegetarian
+699,777,Salad,32,2025-03-16,Catering Service,Wilsonview,"Dinner",Non-Vegetarian
+700,840,Dairy,10,2025-03-17,Restaurant,Cisnerostown,"Breakfast",Vegan
+701,192,Salad,33,2025-03-19,Catering Service,Leslieville,"Lunch",Vegetarian
+702,806,Bread,6,2025-03-25,Supermarket,West Samuelfurt,"Snacks",Vegan
+703,784,Salad,35,2025-03-29,Restaurant,Gibsonfort,"Breakfast",Vegetarian
+704,518,Chicken,43,2025-03-27,Grocery Store,Anneville,"Lunch",Non-Vegetarian
+705,199,Fruits,39,2025-03-30,Catering Service,Christinamouth,"Breakfast",Non-Vegetarian
+706,224,Dairy,45,2025-03-22,Restaurant,East Lindsayville,"Dinner",Non-Vegetarian
+707,625,Soup,29,2025-03-22,Grocery Store,East Lisa,"Dinner",Vegetarian
+708,800,Rice,17,2025-03-22,Catering Service,East Amyfurt,"Lunch",Vegan
+709,127,Chicken,15,2025-03-20,Restaurant,Jasonland,"Breakfast",Vegetarian
+710,970,Chicken,41,2025-03-22,Catering Service,Jeffreybury,"Lunch",Non-Vegetarian
+711,632,Pasta,25,2025-03-17,Supermarket,Davidville,"Breakfast",Vegan
+712,263,Pasta,31,2025-03-18,Grocery Store,Chambersfort,"Dinner",Non-Vegetarian
+713,108,Fish,7,2025-03-26,Supermarket,East Austin,"Snacks",Vegan
+714,928,Pasta,5,2025-03-25,Catering Service,Zimmermanton,"Lunch",Vegetarian
+715,46,Soup,21,2025-03-23,Grocery Store,South Lisaberg,"Breakfast",Non-Vegetarian
+716,237,Dairy,29,2025-03-21,Supermarket,Frederickside,"Snacks",Vegetarian
+717,108,Salad,40,2025-03-16,Supermarket,East Austin,"Breakfast",Non-Vegetarian
+718,801,Vegetables,45,2025-03-28,Catering Service,North Joseph,"Dinner",Non-Vegetarian
+719,701,Pasta,44,2025-03-20,Restaurant,Browntown,"Snacks",Vegan
+720,849,Dairy,1,2025-03-27,Supermarket,South Christopherborough,"Snacks",Vegan
+721,342,Vegetables,20,2025-03-22,Catering Service,Matthewbury,"Breakfast",Non-Vegetarian
+722,306,Soup,43,2025-03-26,Catering Service,North Keith,"Dinner",Vegetarian
+723,762,Pasta,2,2025-03-25,Restaurant,West Lucasville,"Breakfast",Vegetarian
+724,459,Dairy,44,2025-03-18,Supermarket,Castilloport,"Lunch",Vegetarian
+725,846,Soup,47,2025-03-30,Supermarket,South Thomasville,"Breakfast",Vegetarian
+726,719,Soup,27,2025-03-22,Restaurant,East Cynthia,"Breakfast",Vegetarian
+727,285,Chicken,3,2025-03-18,Restaurant,West Corey,"Lunch",Vegetarian
+728,265,Dairy,28,2025-03-28,Catering Service,New Douglas,"Dinner",Vegetarian
+729,253,Rice,42,2025-03-30,Catering Service,Sharonton,"Lunch",Vegan
+730,372,Soup,15,2025-03-19,Restaurant,Lewisberg,"Lunch",Vegan
+731,324,Fruits,42,2025-03-30,Grocery Store,East Elizabeth,"Snacks",Vegetarian
+732,734,Soup,29,2025-03-18,Catering Service,Port Anita,"Dinner",Vegan
+733,736,Pasta,31,2025-03-26,Supermarket,East Anthony,"Snacks",Vegetarian
+734,125,Vegetables,5,2025-03-27,Supermarket,Lake April,"Lunch",Non-Vegetarian
+735,459,Fish,2,2025-03-19,Supermarket,Castilloport,"Snacks",Non-Vegetarian
+736,792,Fruits,33,2025-03-24,Catering Service,Mortonfort,"Snacks",Non-Vegetarian
+737,930,Fish,3,2025-03-16,Restaurant,Kellytown,"Snacks",Non-Vegetarian
+738,793,Fruits,5,2025-03-24,Grocery Store,West Brandon,"Snacks",Vegan
+739,186,Chicken,2,2025-03-28,Grocery Store,Evansmouth,"Breakfast",Vegan
+740,964,Salad,6,2025-03-24,Catering Service,Connieside,"Lunch",Vegetarian
+741,776,Fish,21,2025-03-16,Supermarket,Williamview,"Breakfast",Vegan
+742,483,Dairy,3,2025-03-30,Catering Service,Millerview,"Breakfast",Vegetarian
+743,308,Chicken,46,2025-03-29,Catering Service,Brittanyside,"Breakfast",Vegan
+744,456,Fish,13,2025-03-17,Grocery Store,North Katelyn,"Snacks",Non-Vegetarian
+745,961,Fruits,34,2025-03-18,Restaurant,New Amanda,"Breakfast",Vegan
+746,293,Bread,31,2025-03-30,Catering Service,Joneshaven,"Lunch",Non-Vegetarian
+747,238,Dairy,39,2025-03-19,Grocery Store,North Julieburgh,"Lunch",Vegan
+748,472,Soup,17,2025-03-24,Restaurant,Rebeccaburgh,"Breakfast",Vegetarian
+749,140,Salad,32,2025-03-27,Restaurant,Watsonstad,"Lunch",Non-Vegetarian
+750,613,Bread,17,2025-03-25,Grocery Store,Petersonburgh,"Breakfast",Non-Vegetarian
+751,720,Chicken,18,2025-03-25,Restaurant,Francisshire,"Snacks",Vegan
+752,460,Soup,12,2025-03-17,Grocery Store,Lake Justin,"Breakfast",Vegan
+753,182,Fruits,19,2025-03-24,Grocery Store,Port Jeffrey,"Breakfast",Vegetarian
+754,986,Dairy,37,2025-03-30,Supermarket,Port David,"Dinner",Non-Vegetarian
+755,195,Soup,4,2025-03-17,Supermarket,Justinhaven,"Dinner",Vegetarian
+756,887,Bread,5,2025-03-19,Supermarket,Strongmouth,"Snacks",Vegan
+757,282,Dairy,42,2025-03-21,Supermarket,Port Gregton,"Dinner",Vegetarian
+758,989,Rice,4,2025-03-26,Grocery Store,North Lauren,"Dinner",Non-Vegetarian
+759,779,Chicken,36,2025-03-18,Supermarket,New Bobbytown,"Snacks",Non-Vegetarian
+760,710,Dairy,28,2025-03-26,Catering Service,Mikaylachester,"Dinner",Non-Vegetarian
+761,217,Dairy,46,2025-03-24,Supermarket,Mooremouth,"Snacks",Vegetarian
+762,76,Soup,4,2025-03-23,Restaurant,Port Amandamouth,"Snacks",Vegetarian
+763,846,Fish,33,2025-03-17,Supermarket,South Thomasville,"Snacks",Vegan
+764,9,Vegetables,21,2025-03-19,Supermarket,Tinamouth,"Breakfast",Vegetarian
+765,161,Soup,1,2025-03-28,Supermarket,Perezport,"Lunch",Vegan
+766,463,Chicken,17,2025-03-24,Grocery Store,East Edwinburgh,"Breakfast",Vegetarian
+767,952,Salad,17,2025-03-27,Grocery Store,Samueltown,"Dinner",Vegan
+768,200,Soup,39,2025-03-28,Supermarket,Bradleyport,"Snacks",Non-Vegetarian
+769,483,Chicken,27,2025-03-25,Catering Service,Millerview,"Lunch",Vegetarian
+770,770,Dairy,30,2025-03-30,Supermarket,East Melissa,"Lunch",Non-Vegetarian
+771,551,Chicken,9,2025-03-23,Restaurant,East Sandratown,"Dinner",Vegetarian
+772,609,Salad,37,2025-03-23,Restaurant,South Christopherborough,"Lunch",Vegan
+773,509,Fish,40,2025-03-20,Grocery Store,Cordovaborough,"Dinner",Vegetarian
+774,788,Dairy,2,2025-03-16,Supermarket,New Michaelmouth,"Breakfast",Vegan
+775,204,Pasta,7,2025-03-17,Supermarket,Lake Lauraton,"Dinner",Vegetarian
+776,249,Chicken,33,2025-03-24,Catering Service,Johnsonside,"Dinner",Vegetarian
+777,709,Fruits,5,2025-03-18,Restaurant,South Kathryn,"Dinner",Vegetarian
+778,57,Dairy,7,2025-03-21,Grocery Store,Port Robin,"Snacks",Non-Vegetarian
+779,74,Bread,43,2025-03-27,Catering Service,Belindaville,"Lunch",Vegan
+780,162,Dairy,48,2025-03-17,Restaurant,Penabury,"Snacks",Vegan
+781,33,Bread,45,2025-03-23,Restaurant,Janetborough,"Snacks",Vegan
+782,566,Rice,49,2025-03-28,Catering Service,New Rachel,"Snacks",Non-Vegetarian
+783,455,Rice,4,2025-03-20,Catering Service,Madisonfort,"Snacks",Vegetarian
+784,335,Bread,1,2025-03-26,Grocery Store,North Gary,"Dinner",Non-Vegetarian
+785,678,Bread,10,2025-03-16,Grocery Store,Lake Travis,"Lunch",Non-Vegetarian
+786,959,Rice,4,2025-03-30,Grocery Store,North Victoriastad,"Dinner",Vegetarian
+787,355,Fish,48,2025-03-24,Restaurant,Port Patrick,"Dinner",Vegetarian
+788,34,Fish,26,2025-03-30,Grocery Store,North Garybury,"Dinner",Vegan
+789,673,Chicken,10,2025-03-26,Restaurant,New Connorfort,"Snacks",Vegan
+790,332,Chicken,2,2025-03-21,Restaurant,West Whitneymouth,"Dinner",Vegan
+791,152,Soup,23,2025-03-29,Catering Service,South Jacobport,"Breakfast",Vegetarian
+792,308,Chicken,15,2025-03-17,Catering Service,Brittanyside,"Breakfast",Vegan
+793,824,Fruits,5,2025-03-24,Supermarket,Lopezport,"Snacks",Vegan
+794,380,Fruits,21,2025-03-27,Restaurant,Lake Christophermouth,"Snacks",Vegan
+795,911,Dairy,3,2025-03-19,Restaurant,Garciatown,"Dinner",Non-Vegetarian
+796,798,Pasta,8,2025-03-27,Grocery Store,North Amanda,"Lunch",Vegetarian
+797,467,Dairy,40,2025-03-27,Catering Service,Phillipsfort,"Breakfast",Vegan
+798,413,Fish,3,2025-03-30,Catering Service,North Mike,"Lunch",Vegetarian
+799,764,Chicken,5,2025-03-17,Restaurant,New Travisshire,"Breakfast",Vegetarian
+800,193,Dairy,15,2025-03-20,Restaurant,North Lisaland,"Lunch",Vegan
+801,609,Chicken,50,2025-03-18,Restaurant,South Christopherborough,"Lunch",Vegan
+802,62,Soup,25,2025-03-22,Grocery Store,Marymouth,"Dinner",Non-Vegetarian
+803,714,Chicken,13,2025-03-27,Catering Service,North William,"Snacks",Vegan
+804,16,Fruits,47,2025-03-27,Catering Service,West Vanessafort,"Breakfast",Vegan
+805,235,Chicken,1,2025-03-22,Catering Service,Gutierrezshire,"Dinner",Non-Vegetarian
+806,388,Soup,12,2025-03-27,Supermarket,Manuelhaven,"Dinner",Vegetarian
+807,474,Salad,35,2025-03-19,Catering Service,South Nicole,"Dinner",Vegetarian
+808,868,Dairy,7,2025-03-23,Grocery Store,Rodriguezview,"Dinner",Vegetarian
+809,292,Dairy,48,2025-03-29,Supermarket,Mooneybury,"Breakfast",Vegan
+810,993,Bread,34,2025-03-16,Restaurant,East Stephanie,"Snacks",Vegan
+811,513,Salad,19,2025-03-27,Catering Service,West Larry,"Dinner",Non-Vegetarian
+812,471,Bread,49,2025-03-19,Grocery Store,Charlesmouth,"Lunch",Non-Vegetarian
+813,610,Fish,33,2025-03-23,Supermarket,Allenton,"Breakfast",Vegetarian
+814,287,Bread,18,2025-03-17,Catering Service,Jefferyside,"Snacks",Vegan
+815,157,Pasta,50,2025-03-22,Restaurant,Bairdfort,"Snacks",Vegan
+816,965,Fruits,2,2025-03-17,Restaurant,Port Bryce,"Lunch",Vegetarian
+817,363,Rice,23,2025-03-28,Catering Service,East Brittanyland,"Snacks",Vegetarian
+818,248,Fish,50,2025-03-29,Restaurant,South Michellechester,"Dinner",Vegetarian
+819,304,Bread,35,2025-03-28,Catering Service,Port Marcland,"Breakfast",Non-Vegetarian
+820,753,Fruits,46,2025-03-27,Supermarket,South Randy,"Lunch",Non-Vegetarian
+821,167,Chicken,9,2025-03-24,Catering Service,Davidport,"Lunch",Non-Vegetarian
+822,237,Dairy,27,2025-03-25,Supermarket,Frederickside,"Lunch",Vegan
+823,587,Chicken,27,2025-03-21,Restaurant,Lake George,"Lunch",Vegan
+824,993,Bread,12,2025-03-27,Restaurant,East Stephanie,"Dinner",Vegetarian
+825,995,Salad,25,2025-03-25,Supermarket,Manningshire,"Breakfast",Vegetarian
+826,50,Bread,39,2025-03-17,Catering Service,West Danielborough,"Snacks",Vegan
+827,907,Salad,3,2025-03-23,Supermarket,South Marthahaven,"Snacks",Vegan
+828,636,Vegetables,21,2025-03-24,Grocery Store,West Omarside,"Breakfast",Non-Vegetarian
+829,262,Dairy,44,2025-03-18,Supermarket,New Carol,"Dinner",Vegan
+830,847,Vegetables,3,2025-03-25,Supermarket,Williamsonmouth,"Snacks",Vegetarian
+831,330,Pasta,24,2025-03-22,Restaurant,Jamesport,"Breakfast",Non-Vegetarian
+832,752,Fish,19,2025-03-16,Grocery Store,East Heatherport,"Breakfast",Non-Vegetarian
+833,146,Fruits,44,2025-03-17,Supermarket,Jonathanhaven,"Dinner",Non-Vegetarian
+834,531,Pasta,43,2025-03-18,Catering Service,North Kylestad,"Dinner",Vegetarian
+835,752,Vegetables,17,2025-03-29,Grocery Store,East Heatherport,"Lunch",Vegetarian
+836,685,Salad,49,2025-03-16,Supermarket,Maysside,"Breakfast",Vegan
+837,642,Soup,50,2025-03-24,Catering Service,Lesterstad,"Snacks",Vegan
+838,770,Bread,38,2025-03-29,Supermarket,East Melissa,"Lunch",Vegetarian
+839,72,Chicken,6,2025-03-17,Catering Service,Jasonstad,"Lunch",Vegan
+840,548,Dairy,43,2025-03-16,Supermarket,Lisamouth,"Snacks",Vegan
+841,532,Chicken,15,2025-03-25,Grocery Store,Darrylchester,"Lunch",Vegan
+842,205,Bread,40,2025-03-21,Grocery Store,Carlbury,"Breakfast",Vegan
+843,515,Fruits,46,2025-03-24,Restaurant,Snyderton,"Dinner",Vegetarian
+844,495,Fish,46,2025-03-29,Supermarket,Brownshire,"Dinner",Non-Vegetarian
+845,718,Bread,14,2025-03-20,Restaurant,Port Victoria,"Dinner",Non-Vegetarian
+846,894,Salad,34,2025-03-19,Restaurant,Cannonside,"Snacks",Vegan
+847,887,Pasta,29,2025-03-21,Supermarket,Strongmouth,"Dinner",Vegan
+848,426,Dairy,32,2025-03-25,Catering Service,Taylorchester,"Dinner",Non-Vegetarian
+849,563,Pasta,29,2025-03-21,Grocery Store,East Angela,"Breakfast",Vegan
+850,67,Dairy,22,2025-03-26,Restaurant,Kentland,"Breakfast",Vegan
+851,516,Fruits,35,2025-03-18,Catering Service,New Aaronberg,"Snacks",Non-Vegetarian
+852,363,Vegetables,49,2025-03-20,Catering Service,East Brittanyland,"Snacks",Non-Vegetarian
+853,841,Rice,18,2025-03-27,Restaurant,Lake Tamara,"Snacks",Vegan
+854,804,Fish,33,2025-03-22,Restaurant,North Ashley,"Breakfast",Vegan
+855,596,Salad,28,2025-03-25,Restaurant,Zimmermanville,"Lunch",Vegetarian
+856,501,Rice,44,2025-03-23,Grocery Store,Jordanhaven,"Snacks",Vegetarian
+857,97,Pasta,47,2025-03-17,Supermarket,Reyesshire,"Dinner",Vegetarian
+858,413,Fruits,13,2025-03-22,Catering Service,North Mike,"Snacks",Non-Vegetarian
+859,319,Pasta,1,2025-03-26,Restaurant,Lake Amymouth,"Breakfast",Non-Vegetarian
+860,934,Fish,37,2025-03-17,Grocery Store,Steveport,"Lunch",Vegetarian
+861,937,Dairy,45,2025-03-26,Restaurant,Roachhaven,"Dinner",Non-Vegetarian
+862,237,Dairy,4,2025-03-19,Supermarket,Frederickside,"Lunch",Non-Vegetarian
+863,57,Fruits,30,2025-03-20,Grocery Store,Port Robin,"Breakfast",Vegan
+864,741,Soup,11,2025-03-28,Catering Service,West Anthonymouth,"Snacks",Vegetarian
+865,837,Fish,25,2025-03-20,Supermarket,South Charles,"Snacks",Non-Vegetarian
+866,169,Fish,7,2025-03-29,Grocery Store,Lindseyland,"Dinner",Vegetarian
+867,870,Soup,1,2025-03-21,Supermarket,New Hollyfurt,"Snacks",Vegetarian
+868,504,Soup,4,2025-03-22,Catering Service,Gaineschester,"Snacks",Non-Vegetarian
+869,40,Fish,27,2025-03-20,Restaurant,Jennifertown,"Snacks",Vegan
+870,653,Fish,3,2025-03-30,Catering Service,Cameronside,"Breakfast",Vegetarian
+871,875,Chicken,7,2025-03-16,Grocery Store,South William,"Lunch",Non-Vegetarian
+872,717,Vegetables,50,2025-03-29,Catering Service,Pamelaberg,"Snacks",Vegetarian
+873,712,Rice,49,2025-03-29,Restaurant,Huberstad,"Lunch",Vegan
+874,655,Bread,45,2025-03-17,Restaurant,Jimmyberg,"Snacks",Non-Vegetarian
+875,721,Bread,19,2025-03-29,Catering Service,Port Staceymouth,"Breakfast",Non-Vegetarian
+876,78,Salad,38,2025-03-20,Restaurant,North Susan,"Snacks",Vegan
+877,374,Chicken,8,2025-03-20,Grocery Store,Steeleport,"Lunch",Non-Vegetarian
+878,17,Rice,23,2025-03-29,Catering Service,West Dawn,"Snacks",Non-Vegetarian
+879,778,Chicken,21,2025-03-25,Catering Service,Edwardsbury,"Dinner",Non-Vegetarian
+880,954,Soup,35,2025-03-25,Catering Service,Randallchester,"Lunch",Vegetarian
+881,655,Dairy,43,2025-03-17,Restaurant,Jimmyberg,"Lunch",Vegetarian
+882,138,Salad,43,2025-03-23,Grocery Store,North Sherrimouth,"Lunch",Vegan
+883,857,Bread,8,2025-03-23,Supermarket,Jordanborough,"Lunch",Vegetarian
+884,371,Chicken,27,2025-03-28,Grocery Store,Solisburgh,"Lunch",Vegetarian
+885,503,Rice,44,2025-03-22,Restaurant,Joseville,"Lunch",Vegan
+886,423,Bread,48,2025-03-20,Restaurant,South Justinborough,"Breakfast",Vegetarian
+887,825,Soup,12,2025-03-21,Supermarket,South Bryan,"Lunch",Vegetarian
+888,50,Salad,6,2025-03-25,Catering Service,West Danielborough,"Snacks",Non-Vegetarian
+889,266,Soup,21,2025-03-16,Grocery Store,Port Ronaldshire,"Snacks",Vegan
+890,41,Chicken,40,2025-03-28,Catering Service,Bentleyburgh,"Lunch",Vegan
+891,539,Chicken,9,2025-03-18,Restaurant,Watsonton,"Lunch",Vegetarian
+892,405,Bread,42,2025-03-19,Supermarket,Kevinfort,"Dinner",Vegetarian
+893,46,Salad,3,2025-03-28,Grocery Store,South Lisaberg,"Lunch",Vegan
+894,310,Pasta,43,2025-03-25,Grocery Store,Saraburgh,"Dinner",Vegetarian
+895,888,Pasta,38,2025-03-29,Supermarket,West Sharonview,"Snacks",Vegan
+896,547,Vegetables,32,2025-03-18,Restaurant,Batesstad,"Snacks",Vegetarian
+897,638,Chicken,5,2025-03-20,Restaurant,Jeffreyport,"Lunch",Non-Vegetarian
+898,87,Fish,28,2025-03-27,Grocery Store,West Adam,"Breakfast",Non-Vegetarian
+899,5,Pasta,44,2025-03-29,Grocery Store,Valentineside,"Snacks",Vegetarian
+900,732,Dairy,31,2025-03-29,Supermarket,Ginaview,"Breakfast",Non-Vegetarian
+901,183,Vegetables,38,2025-03-26,Grocery Store,South Anne,"Dinner",Vegetarian
+902,347,Salad,34,2025-03-30,Supermarket,Louismouth,"Snacks",Vegan
+903,452,Rice,25,2025-03-30,Supermarket,New Erica,"Breakfast",Vegetarian
+904,709,Chicken,40,2025-03-22,Restaurant,South Kathryn,"Breakfast",Vegetarian
+905,2,Bread,37,2025-03-25,Grocery Store,East Sheena,"Dinner",Vegan
+906,191,Soup,17,2025-03-30,Grocery Store,Lake Jessicamouth,"Snacks",Vegan
+907,175,Chicken,17,2025-03-16,Catering Service,Katherinefurt,"Lunch",Vegan
+908,463,Rice,16,2025-03-27,Grocery Store,East Edwinburgh,"Snacks",Non-Vegetarian
+909,831,Fish,10,2025-03-28,Catering Service,Lewishaven,"Snacks",Vegan
+910,533,Salad,37,2025-03-19,Catering Service,Rogersmouth,"Breakfast",Vegetarian
+911,124,Fish,5,2025-03-21,Supermarket,Lake Shelby,"Dinner",Vegetarian
+912,334,Dairy,6,2025-03-28,Grocery Store,South Jillshire,"Breakfast",Non-Vegetarian
+913,962,Fruits,39,2025-03-22,Catering Service,Alexanderchester,"Dinner",Vegetarian
+914,995,Chicken,18,2025-03-27,Supermarket,Manningshire,"Dinner",Vegan
+915,198,Vegetables,35,2025-03-22,Restaurant,Port Karen,"Snacks",Non-Vegetarian
+916,920,Rice,47,2025-03-16,Restaurant,New Calebberg,"Snacks",Non-Vegetarian
+917,393,Soup,15,2025-03-28,Restaurant,Heatherview,"Dinner",Vegan
+918,583,Dairy,8,2025-03-29,Catering Service,Marcstad,"Breakfast",Vegetarian
+919,52,Soup,35,2025-03-26,Supermarket,Port Dianaberg,"Dinner",Non-Vegetarian
+920,691,Soup,2,2025-03-19,Restaurant,Youngchester,"Snacks",Vegetarian
+921,59,Chicken,6,2025-03-26,Grocery Store,Marissaville,"Snacks",Vegetarian
+922,312,Soup,32,2025-03-22,Restaurant,North Ianbury,"Dinner",Non-Vegetarian
+923,161,Fruits,42,2025-03-24,Supermarket,Perezport,"Snacks",Vegan
+924,764,Fish,3,2025-03-20,Restaurant,New Travisshire,"Dinner",Vegetarian
+925,665,Salad,12,2025-03-26,Catering Service,West Billborough,"Lunch",Non-Vegetarian
+926,240,Rice,41,2025-03-16,Catering Service,Andreaborough,"Snacks",Vegetarian
+927,261,Fruits,39,2025-03-26,Grocery Store,South Richardhaven,"Snacks",Vegetarian
+928,852,Bread,20,2025-03-20,Grocery Store,East Shanestad,"Breakfast",Vegetarian
+929,181,Bread,23,2025-03-26,Restaurant,Taylormouth,"Lunch",Vegan
+930,983,Chicken,33,2025-03-18,Grocery Store,Herbertbury,"Lunch",Vegan
+931,139,Vegetables,49,2025-03-23,Supermarket,Port Connie,"Snacks",Vegan
+932,857,Pasta,11,2025-03-18,Supermarket,Jordanborough,"Dinner",Vegetarian
+933,478,Dairy,17,2025-03-30,Catering Service,Lake Regina,"Lunch",Non-Vegetarian
+934,951,Salad,50,2025-03-29,Grocery Store,Spenceland,"Breakfast",Vegan
+935,608,Vegetables,24,2025-03-25,Grocery Store,Collinsmouth,"Dinner",Vegetarian
+936,381,Chicken,32,2025-03-30,Supermarket,Martinville,"Breakfast",Non-Vegetarian
+937,916,Bread,18,2025-03-27,Catering Service,Patrickfort,"Lunch",Non-Vegetarian
+938,162,Vegetables,7,2025-03-22,Restaurant,Penabury,"Breakfast",Vegan
+939,983,Rice,45,2025-03-18,Grocery Store,Herbertbury,"Dinner",Non-Vegetarian
+940,890,Fish,36,2025-03-27,Restaurant,Pereztown,"Lunch",Vegan
+941,745,Fish,1,2025-03-16,Grocery Store,East Lisa,"Lunch",Vegan
+942,591,Rice,44,2025-03-30,Grocery Store,New Leslieport,"Dinner",Vegan
+943,413,Bread,13,2025-03-19,Catering Service,North Mike,"Lunch",Vegan
+944,807,Vegetables,41,2025-03-17,Supermarket,Williamland,"Breakfast",Vegan
+945,351,Vegetables,16,2025-03-21,Grocery Store,South Stefanietown,"Breakfast",Vegetarian
+946,146,Vegetables,29,2025-03-26,Supermarket,Jonathanhaven,"Breakfast",Vegan
+947,176,Bread,29,2025-03-19,Restaurant,East John,"Breakfast",Vegetarian
+948,421,Fruits,50,2025-03-29,Supermarket,Kylehaven,"Breakfast",Vegan
+949,632,Pasta,15,2025-03-20,Supermarket,Davidville,"Breakfast",Vegetarian
+950,619,Pasta,3,2025-03-27,Grocery Store,North Katelynland,"Snacks",Vegetarian
+951,118,Vegetables,20,2025-03-16,Supermarket,Lake Joseph,"Lunch",Vegan
+952,82,Pasta,32,2025-03-28,Supermarket,West Lauraborough,"Dinner",Vegan
+953,731,Soup,2,2025-03-29,Grocery Store,East Christophertown,"Breakfast",Vegetarian
+954,780,Rice,36,2025-03-25,Catering Service,North Caitlin,"Lunch",Vegan
+955,276,Soup,26,2025-03-26,Supermarket,Port Eric,"Snacks",Non-Vegetarian
+956,626,Chicken,39,2025-03-30,Supermarket,Heathermouth,"Snacks",Vegan
+957,10,Fish,39,2025-03-22,Catering Service,West Cherylfort,"Lunch",Vegan
+958,794,Soup,19,2025-03-20,Supermarket,Woodport,"Lunch",Vegetarian
+959,758,Pasta,26,2025-03-18,Catering Service,Port Patrick,"Breakfast",Vegan
+960,920,Fish,46,2025-03-27,Restaurant,New Calebberg,"Snacks",Vegetarian
+961,66,Soup,22,2025-03-25,Restaurant,Lake Michaelfurt,"Lunch",Non-Vegetarian
+962,62,Soup,13,2025-03-28,Grocery Store,Marymouth,"Breakfast",Vegetarian
+963,827,Fish,33,2025-03-16,Grocery Store,East Kimberly,"Dinner",Vegan
+964,192,Rice,46,2025-03-25,Catering Service,Leslieville,"Dinner",Vegan
+965,791,Dairy,44,2025-03-24,Grocery Store,West James,"Lunch",Vegetarian
+966,705,Dairy,41,2025-03-25,Grocery Store,East Robert,"Snacks",Vegan
+967,357,Fruits,34,2025-03-16,Supermarket,Donnaborough,"Snacks",Vegan
+968,789,Rice,45,2025-03-17,Grocery Store,Lake Maria,"Lunch",Non-Vegetarian
+969,208,Soup,50,2025-03-21,Restaurant,East Garyton,"Lunch",Non-Vegetarian
+970,62,Fruits,26,2025-03-20,Grocery Store,Marymouth,"Breakfast",Vegetarian
+971,751,Fish,7,2025-03-18,Restaurant,East Richardside,"Snacks",Vegetarian
+972,984,Vegetables,21,2025-03-23,Catering Service,South Edwardtown,"Dinner",Vegetarian
+973,519,Fruits,7,2025-03-16,Restaurant,Keithburgh,"Breakfast",Non-Vegetarian
+974,393,Chicken,45,2025-03-17,Restaurant,Heatherview,"Lunch",Non-Vegetarian
+975,5,Fish,48,2025-03-19,Grocery Store,Valentineside,"Lunch",Non-Vegetarian
+976,738,Vegetables,41,2025-03-19,Grocery Store,West Kelli,"Lunch",Non-Vegetarian
+977,514,Vegetables,12,2025-03-19,Supermarket,Maxwellburgh,"Dinner",Vegan
+978,743,Dairy,14,2025-03-27,Supermarket,South Richard,"Snacks",Vegetarian
+979,584,Pasta,43,2025-03-16,Supermarket,Moralesside,"Lunch",Vegetarian
+980,876,Chicken,2,2025-03-27,Grocery Store,Brookeland,"Dinner",Vegan
+981,999,Dairy,47,2025-03-18,Grocery Store,Stevenchester,"Breakfast",Vegan
+982,7,Soup,36,2025-03-19,Restaurant,Lake Christopherburgh,"Breakfast",Vegetarian
+983,98,Fruits,43,2025-03-22,Supermarket,Gardnerfort,"Lunch",Vegetarian
+984,234,Chicken,26,2025-03-23,Catering Service,New Joel,"Dinner",Non-Vegetarian
+985,935,Bread,31,2025-03-16,Grocery Store,Ramseyfort,"Dinner",Vegetarian
+986,14,Rice,23,2025-03-24,Catering Service,Garciamouth,"Snacks",Vegan
+987,557,Dairy,6,2025-03-29,Restaurant,East Aaron,"Dinner",Vegetarian
+988,517,Soup,44,2025-03-24,Grocery Store,Wadeville,"Lunch",Vegan
+989,557,Bread,31,2025-03-19,Restaurant,East Aaron,"Snacks",Non-Vegetarian
+990,720,Pasta,11,2025-03-25,Restaurant,Francisshire,"Breakfast",Vegetarian
+991,432,Vegetables,7,2025-03-19,Restaurant,Carolchester,"Dinner",Vegetarian
+992,257,Salad,25,2025-03-26,Supermarket,Lake Coryhaven,"Breakfast",Vegan
+993,470,Soup,8,2025-03-28,Restaurant,Port Daniellechester,"Lunch",Vegetarian
+994,37,Salad,17,2025-03-29,Catering Service,New Amanda,"Snacks",Non-Vegetarian
+995,868,Rice,37,2025-03-23,Grocery Store,Rodriguezview,"Snacks",Vegan
+996,467,Fish,15,2025-03-30,Catering Service,Phillipsfort,"Breakfast",Vegan
+997,35,Fish,22,2025-03-18,Grocery Store,Andersonmouth,"Breakfast",Vegetarian
+998,444,Fruits,6,2025-03-22,Restaurant,New Billy,"Dinner",Non-Vegetarian
+999,702,Pasta,15,2025-03-30,Supermarket,Lake Mistyton,"Lunch",Non-Vegetarian
+1000,155,Salad,18,2025-03-19,Supermarket,Charlesview,"Dinner",Non-Vegetarian
